@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTG Tufo Price Calculator 3000</title>
+</head>
+<style>
+    body {
+        background-color: black;
+        color: white;
+        padding: 5px 5px 5px 5px;
+    }
+
+    h3 {
+        margin-bottom: 0;
+    }
+
+    .textblock {
+        min-height: 100px;
+        max-height: 250px;
+        overflow-y: auto;
+        resize: none;
+        font-family: monospace;
+        padding: 5px;
+    }
+
+    .container {
+        display: flex;
+        box-sizing: border-box;
+    }
+
+    .column {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        padding: 50px 10px 10px 50px;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+    
+    .total {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        gap: 10px;
+    }
+
+    .buttonsrev {
+        text-align: right;
+    }
+
+    .btn {
+        background-color: rgb(16, 219, 16);
+        color: black;
+        width: 100px;
+        height: 50px;
+    }
+    .big-btn {
+        width: 200px;
+    }
+
+    .notFoundArea {
+        background-color: #ff7b00;
+    }
+
+    .hidden {
+        display: none !important;
+    }
+</style>
+<body>
+    <div>
+        <h1>MTG Deck Price Calculator</h1>
+        <h3>Prezzi aggiornati al: 01/01/2026</h3>        
+    </div>
+    <div id="notFoundDiv" class="hidden">
+        <div class="column">
+            <p>Le seguenti carte non sono presenti nell'elenco:</p>
+            <textarea name="notFoundArea" class="textblock notFoundArea" id="notFoundArea" rows="10" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>
+            <p>Correggi i nomi e ricalcola l'intera lista.</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="column">
+            <div class="buttonsrev">
+                <button class="btn big-btn" onclick="calculatePrice()">Calcola Prezzo</button>
+            </div>
+            <textarea name="decklist" class="textblock" id="decklist" rows="120" cols="50" placeholder="Incolla qui la tua decklist..."></textarea>
+        </div>
+        <div class="column">
+            <div class="buttons">
+                <button class="btn" onclick="sortForName()">Ordina per nome</button>
+                <button class="btn" onclick="sortForPrice()">Ordina per prezzo</button>
+            </div>
+            <textarea name="pricelist" class="textblock" id="pricelist" rows="120" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>
+            <div class="total">
+                <h2>Totale: </h2>
+                <h2 id="totalAmount"> 0.00€</h2>
+            </div>
+        </div>
+    </div>
+    <div id="notFoundDiv" class="container hidden">
+        <div class="column">
+            <p>Le seguenti carte non sono presenti nell'elenco:</p>
+            <textarea name="notFoundArea" class="textblock" id="notFoundArea" rows="120" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>
+        </div>
+        <div class="column"></div>
+    </div>
+</body>
+<script>
+    async function pasteList() {
+        alert('ok')
+        console.log('clipboard: ', navigator.clipboard);
+        try {
+            const text = await navigator.clipboard.readText();
+            alert('letto')
+            document.getElementById('decklist').value = text;
+        } catch (err) {
+            alert('Accesso agli appunti non consentito')
+            console.error(err)
+        }
+    }
+
+    let cards = [];
+    let pricedDecklist = [];
+
+    async function loadData() {
+        const res = await fetch('mtg_prices.json');
+        cards = await res.json();
+        console.log(`Caricate ${cards.length} carte`);
+    }
+
+    window.onload = () => {
+        loadData();
+        document.getElementById('pricelist').value = ''
+        document.getElementById('decklist').value = ''
+        document.getElementById('notFoundArea').value = ''
+    };
+
+    function textAreaToList() {
+        let text = document.getElementById('decklist').value;
+        return text
+            .split(/\r?\n/)
+            .filter(s => s.length > 0)
+            .map(line => {
+                const match = line.match(/^(\d+)\s+(.*)$/);
+                return match ? { quantity: Number(match[1]), name: match[2] } : { quantity: 1, name: line }
+            });
+    }
+
+    function findPrice(name) {
+        let cardInfo = cards.find((c) => c.name == name) ?? null;
+        return cardInfo;
+    }
+
+    function calculatePrice() {
+        let priceNotFoundCards = []
+        let totalPrice = 0;
+        let el;
+        let deckList = textAreaToList();
+        console.log(deckList);
+        console.log(cards);
+
+        for (const deckEntry of deckList) {
+            console.log('deckEntry: ', deckEntry)
+            el = findPrice(deckEntry.name);
+
+            if (!el || el == null) {
+                priceNotFoundCards.push(deckEntry.name);
+                continue;
+            }
+            console.log('cardName', el)
+            pricedDecklist.push({
+                name: deckEntry.name,
+                quantity: deckEntry.quantity,
+                price: el.price
+            });
+            totalPrice += deckEntry.quantity * el.price;
+        }
+
+        console.log('total price: ', totalPrice.toFixed(2));
+        document.getElementById('totalAmount').innerHTML = `${totalPrice.toFixed(2)}€`;
+        document.getElementById('pricelist').value = pricedDecklist.map(o => `${o.name} - ${o.quantity}x ${o.price}€`).join('\n');
+        
+        if (priceNotFoundCards.length > 0) {
+            document.getElementById('notFoundDiv').classList.remove('hidden');
+            document.getElementById('notFoundArea').value = priceNotFoundCards.join('\n');
+        }
+    }
+
+    function sortForPrice() {
+        sorted = pricedDecklist.sort((a, b) => (a.price < b.price));
+        document.getElementById('pricelist').value = sorted.map(o => `${o.name} - ${o.quantity}x ${o.price}€`).join('\n');
+    }
+
+    function sortForName() {
+        sorted = pricedDecklist.sort((a, b) => ((a.name).localeCompare(b.name)));
+        document.getElementById('pricelist').value = sorted.map(o => `${o.name} - ${o.quantity}x ${o.price}€`).join('\n');
+    }
+</script>
+</html>
