@@ -189,6 +189,9 @@
         if (priceNotFoundCards.length > 0) {
             document.getElementById('notFoundDiv').classList.remove('hidden');
             document.getElementById('notFoundArea').value = priceNotFoundCards.join('\n');
+        } else {
+            document.getElementById('notFoundDiv').classList.add('hidden');
+            document.getElementById('notFoundArea').value = '';
         }
     }
 
