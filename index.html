@@ -42,12 +42,22 @@
         flex-direction: row;
         justify-content: flex-end;
     }
+
+    .total_order {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
     
     .total {
         display: flex;
         flex-direction: row;
         justify-content: flex-end;
         gap: 10px;
+    }
+    .totalRow {
+        margin-top: 0px;
+        margin-bottom: 0px;
     }
 
     .buttonsrev {
@@ -92,21 +102,25 @@
             <textarea name="decklist" class="textblock" id="decklist" rows="120" cols="50" placeholder="Incolla qui la tua decklist..."></textarea>
         </div>
         <div class="column">
-            <div class="buttons">
-                <button class="btn" onclick="sortForName()">Ordina per nome</button>
-                <button class="btn" onclick="sortForPrice()">Ordina per prezzo</button>
+            <div class="total_order">
+                <div class="total">
+                    <h2 class="totalRow">Carte: </h2>
+                    <h2 class="totalRow" id="cardsNumber"> 0</h2>
+                    <h2 class="totalRow"> - Totale: </h2>
+                    <h2 class="totalRow" id="totalAmount"> 0.00€</h2>
+                </div>
+                <div class="buttons">
+                    <button class="btn" onclick="sortForName()">Ordina per nome</button>
+                    <button class="btn" onclick="sortForPrice()">Ordina per prezzo</button>
+                </div>
             </div>
-            <textarea name="pricelist" class="textblock" id="pricelist" rows="120" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>
-            <div class="total">
-                <h2>Totale: </h2>
-                <h2 id="totalAmount"> 0.00€</h2>
-            </div>
+            <textarea name="pricelist" class="textblock" id="pricelist" rows="120" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>       
         </div>
     </div>
     <div id="notFoundDiv" class="container hidden">
         <div class="column">
             <p>Le seguenti carte non sono presenti nell'elenco:</p>
-            <textarea name="notFoundArea" class="textblock" id="notFoundArea" rows="120" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>
+            <textarea name="notFoundArea" class="textblock" id="notFoundArea" rows="120" cols="50" readonly></textarea>
         </div>
         <div class="column"></div>
     </div>
@@ -160,7 +174,9 @@
 
     function calculatePrice() {
         let priceNotFoundCards = []
+        pricedDecklist = [];
         let totalPrice = 0;
+        let cardsNumber = 0;
         let el;
         let deckList = textAreaToList();
         console.log(deckList);
@@ -181,10 +197,13 @@
                 price: el.price
             });
             totalPrice += deckEntry.quantity * el.price;
+            cardsNumber += deckEntry.quantity;
         }
 
         console.log('total price: ', totalPrice.toFixed(2));
         document.getElementById('totalAmount').innerHTML = `${totalPrice.toFixed(2)}€`;
+        document.getElementById('cardsNumber').innerHTML = `${cardsNumber}`;
+        console.log('priced deck list: ', pricedDecklist)
         document.getElementById('pricelist').value = pricedDecklist.map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
         
         if (priceNotFoundCards.length > 0) {
