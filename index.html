@@ -161,6 +161,7 @@
             .split(/\r?\n/)
             .filter(s => s.length > 0)
             .map(line => {
+                line = line.trimEnd();
                 const match = line.match(/^(\d+)\s+(.*)$/);
                 console.log('after match: ', match);
                 return match ? { quantity: Number(match[1]), name: match[2] } : { quantity: 1, name: line }
