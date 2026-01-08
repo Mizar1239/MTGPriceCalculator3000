@@ -127,13 +127,16 @@
 </body>
 <script>
 
-    let cards = [];
+    let cards = null;
     let pricedDecklist = [];
 
     async function loadData() {
-        const res = await fetch('mtg_prices.json');
-        cards = await res.json();
-        console.log(`Caricate ${cards.length} carte`);
+        if (cards == null) {
+
+            const res = await fetch('mtg_prices.json');
+            cards = await res.json();
+        }
+        return cards;
     }
 
     window.onload = () => {
@@ -151,7 +154,7 @@
             .map(line => {
                 line = line.trimEnd();
                 const match = line.match(/^(\d+)\s+(.*)$/);
-                console.log('after match: ', match);
+                // console.log('after match: ', match);
                 return match ? { quantity: Number(match[1]), name: match[2] } : { quantity: 1, name: line }
             });
     }
@@ -168,18 +171,18 @@
         let cardsNumber = 0;
         let el;
         let deckList = textAreaToList();
-        console.log(deckList);
-        console.log(cards);
+        // console.log(deckList);
+        // console.log(cards);
 
         for (const deckEntry of deckList) {
-            console.log('deckEntry: ', deckEntry)
+            // console.log('deckEntry: ', deckEntry)
             el = findPrice(deckEntry.name);
 
             if (!el || el == null) {
                 priceNotFoundCards.push(deckEntry.name);
                 continue;
             }
-            console.log('cardName', el)
+            // console.log('cardName', el)
             pricedDecklist.push({
                 name: deckEntry.name,
                 quantity: deckEntry.quantity,
@@ -189,7 +192,7 @@
             cardsNumber += deckEntry.quantity;
         }
 
-        console.log('total price: ', totalPrice.toFixed(2));
+        // console.log('total price: ', totalPrice.toFixed(2));
         document.getElementById('totalAmount').innerHTML = `${totalPrice.toFixed(2)}€`;
         document.getElementById('cardsNumber').innerHTML = `${cardsNumber}`;
         console.log('priced deck list: ', pricedDecklist)
