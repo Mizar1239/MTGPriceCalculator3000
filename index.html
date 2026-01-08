@@ -9,7 +9,7 @@
     body {
         background-color: black;
         color: white;
-        padding: 5px 5px 5px 5px;
+        padding: 5px 300px 5px 300px;
     }
 
     h3 {
@@ -17,12 +17,15 @@
     }
 
     .textblock {
-        min-height: 100px;
-        max-height: 250px;
+        min-height: 400px;
+        width: 100%;
+        max-width: 600px;
         overflow-y: auto;
+        font-size: large;
         resize: none;
         font-family: monospace;
         padding: 5px;
+        box-sizing: border-box;
     }
 
     .container {
@@ -33,8 +36,10 @@
     .column {
         display: flex;
         flex-direction: column;
+        width: 100%;
+        box-sizing: border-box;
         flex: 1;
-        padding: 50px 10px 10px 50px;
+        padding: 10px 10px 10px 0px;
     }
 
     .buttons {
@@ -62,16 +67,18 @@
 
     .buttonsrev {
         text-align: right;
+        width: 100%;
     }
 
     .btn {
         background-color: rgb(16, 219, 16);
         color: black;
-        width: 100px;
+        width: 100%;
         height: 50px;
+        box-sizing: border-box;
     }
     .big-btn {
-        width: 200px;
+        width: 100%;
     }
 
     .notFoundArea {
@@ -90,7 +97,7 @@
     <div id="notFoundDiv" class="hidden">
         <div class="column">
             <p>Le seguenti carte non sono presenti nell'elenco:</p>
-            <textarea name="notFoundArea" class="textblock notFoundArea" id="notFoundArea" rows="10" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>
+            <textarea name="notFoundArea" class="textblock notFoundArea" id="notFoundArea" rows="10" cols="40" placeholder="Lista dei prezzi..." readonly></textarea>
             <p>Correggi i nomi e ricalcola l'intera lista.</p>
         </div>
     </div>
@@ -99,7 +106,7 @@
             <div class="buttonsrev">
                 <button class="btn big-btn" onclick="calculatePrice()">Calcola Prezzo</button>
             </div>
-            <textarea name="decklist" class="textblock" id="decklist" rows="120" cols="50" placeholder="Incolla qui la tua decklist..."></textarea>
+            <textarea name="decklist" class="textblock" id="decklist" placeholder="Incolla qui la tua decklist..."></textarea>
         </div>
         <div class="column">
             <div class="total_order">
@@ -114,15 +121,8 @@
                     <button class="btn" onclick="sortForPrice()">Ordina per prezzo</button>
                 </div>
             </div>
-            <textarea name="pricelist" class="textblock" id="pricelist" rows="120" cols="50" placeholder="Lista dei prezzi..." readonly></textarea>       
+            <textarea name="pricelist" class="textblock" id="pricelist" placeholder="Lista dei prezzi..." readonly></textarea>       
         </div>
-    </div>
-    <div id="notFoundDiv" class="container hidden">
-        <div class="column">
-            <p>Le seguenti carte non sono presenti nell'elenco:</p>
-            <textarea name="notFoundArea" class="textblock" id="notFoundArea" rows="120" cols="50" readonly></textarea>
-        </div>
-        <div class="column"></div>
     </div>
 </body>
 <script>
@@ -132,7 +132,6 @@
 
     async function loadData() {
         if (cards == null) {
-
             const res = await fetch('mtg_prices.json');
             cards = await res.json();
         }
@@ -160,8 +159,7 @@
     }
 
     function findPrice(name) {
-        let cardInfo = cards.find((c) => c.name.toLowerCase() == name.toLowerCase()) ?? null;
-        return cardInfo;
+        return cards.find((c) => c.name.toLowerCase() == name.toLowerCase()) ?? null;
     }
 
     function calculatePrice() {
@@ -169,16 +167,16 @@
         pricedDecklist = [];
         let totalPrice = 0;
         let cardsNumber = 0;
-        let el;
+
         let deckList = textAreaToList();
         // console.log(deckList);
         // console.log(cards);
 
         for (const deckEntry of deckList) {
             // console.log('deckEntry: ', deckEntry)
-            el = findPrice(deckEntry.name);
+            let el = findPrice(deckEntry.name);
 
-            if (!el || el == null) {
+            if (el == null) {
                 priceNotFoundCards.push(deckEntry.name);
                 continue;
             }
@@ -195,7 +193,7 @@
         // console.log('total price: ', totalPrice.toFixed(2));
         document.getElementById('totalAmount').innerHTML = `${totalPrice.toFixed(2)}€`;
         document.getElementById('cardsNumber').innerHTML = `${cardsNumber}`;
-        console.log('priced deck list: ', pricedDecklist)
+        // console.log('priced deck list: ', pricedDecklist)
         document.getElementById('pricelist').value = pricedDecklist.map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
         
         if (priceNotFoundCards.length > 0) {
@@ -208,13 +206,13 @@
     }
 
     function sortForPrice() {
-        sorted = pricedDecklist.sort((a, b) => (a.price < b.price));
-        document.getElementById('pricelist').value = sorted.map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
+        document.getElementById('pricelist').value = pricedDecklist.sort((a, b) => (a.price < b.price))
+                                                        .map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
     }
 
     function sortForName() {
-        sorted = pricedDecklist.sort((a, b) => ((a.name).localeCompare(b.name)));
-        document.getElementById('pricelist').value = sorted.map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
+        document.getElementById('pricelist').value = pricedDecklist.sort((a, b) => ((a.name).localeCompare(b.name)))
+                                                        .map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
     }
 </script>
 </html>
