@@ -9,114 +9,140 @@
     body {
         background-color: black;
         color: white;
-        padding: 5px 300px 5px 300px;
+        margin: 0px;
+        padding: 20px;
+        box-sizing: border-box;
     }
 
     h3 {
         margin-bottom: 0;
     }
-
-    .textblock {
-        min-height: 400px;
-        width: 100%;
-        max-width: 600px;
-        overflow-y: auto;
-        font-size: large;
-        resize: none;
-        font-family: monospace;
-        padding: 5px;
-        box-sizing: border-box;
-    }
-
+    
     .container {
         display: flex;
+        gap: 20px;
+        width: 100%;
         box-sizing: border-box;
     }
 
     .column {
         display: flex;
         flex-direction: column;
-        width: 100%;
-        box-sizing: border-box;
         flex: 1;
-        padding: 10px 10px 10px 0px;
+        gap: 10px;
+        box-sizing: border-box;
+    }
+
+    /* TEXTAREA */
+    .textblock {
+        min-height: 400px;
+        width: 100%;
+        overflow-y: auto;
+        font-size: large;
+        resize: none;
+        font-family: monospace;
+        padding: 8px;
+        box-sizing: border-box;
+    }
+
+    /* BUTTONS */
+    .buttons, .buttonsrev {
+        width: 100%;
+        display: flex;
+        gap: 10px;
     }
 
     .buttons {
-        display: flex;
-        flex-direction: row;
         justify-content: flex-end;
-    }
-
-    .total_order {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-    
-    .total {
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-end;
-        gap: 10px;
-    }
-    .totalRow {
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
-
-    .buttonsrev {
-        text-align: right;
-        width: 100%;
     }
 
     .btn {
         background-color: rgb(16, 219, 16);
         color: black;
+        height: 45px;
         width: 100%;
-        height: 50px;
         box-sizing: border-box;
-    }
-    .big-btn {
-        width: 100%;
+		cursor: pointer;
     }
 
+	/* TOTAL ROW */
+    .total_order {
+        display: flex;
+        justify-content: space-between;
+		align-items: center;
+		gap: 10px;
+        flex-wrap: wrap; /* per mobile */
+    }
+    
+    .total {
+        display: flex;
+        gap: 8px;
+		align-items: center;
+        flex-wrap: wrap;
+		font-size: x-large;
+    }
+    .totalRow {
+        margin: 0px;
+    }
+
+	.sortButtons {
+		display: flex;
+		gap:10px;
+	}
+	.sortButtons .btn {
+		width: auto;
+		min-width: 120px;
+	}
+
+	/* NOT FOUND */
     .notFoundArea {
         background-color: #ff7b00;
     }
-
     .hidden {
         display: none !important;
     }
+
+	/* MOBILE */
+	@media (max-width: 900px) {
+		.container {
+			flex-direction: column;
+		}
+	}
 </style>
 <body>
-    <div>
+    <header>
         <h1>MTG Deck Price Calculator</h1>
         <h3>Prezzi aggiornati al: 01/01/2026</h3>        
-    </div>
+	</header>
+
+	<!-- CARTE NON TROVATE -->
     <div id="notFoundDiv" class="hidden">
         <div class="column">
             <p>Le seguenti carte non sono presenti nell'elenco:</p>
-            <textarea name="notFoundArea" class="textblock notFoundArea" id="notFoundArea" rows="10" cols="40" placeholder="Lista dei prezzi..." readonly></textarea>
+            <textarea class="textblock notFoundArea" id="notFoundArea" placeholder="Lista dei prezzi..." readonly></textarea>
             <p>Correggi i nomi e ricalcola l'intera lista.</p>
         </div>
     </div>
+	<!-- CARTE NON TROVATE -->
+
     <div class="container">
+		<!-- COLONNA SINISTRA -->
         <div class="column">
             <div class="buttonsrev">
                 <button class="btn big-btn" onclick="calculatePrice()">Calcola Prezzo</button>
             </div>
             <textarea name="decklist" class="textblock" id="decklist" placeholder="Incolla qui la tua decklist..."></textarea>
         </div>
+		<!-- COLONNA DESTRA -->
         <div class="column">
             <div class="total_order">
                 <div class="total">
-                    <h2 class="totalRow">Carte: </h2>
-                    <h2 class="totalRow" id="cardsNumber"> 0</h2>
-                    <h2 class="totalRow"> - Totale: </h2>
-                    <h2 class="totalRow" id="totalAmount"> 0.00€</h2>
+                    <span>Carte: </span>
+                    <span id="cardsNumber"> 0</span>
+                    <span> - Totale: </span>
+                    <span id="totalAmount"> 0.00€</span>
                 </div>
-                <div class="buttons">
+                <div class="sortButtons">
                     <button class="btn" onclick="sortForName()">Ordina per nome</button>
                     <button class="btn" onclick="sortForPrice()">Ordina per prezzo</button>
                 </div>
