@@ -112,7 +112,7 @@
 <body>
     <header>
         <h1>MTG Deck Price Calculator</h1>
-        <h3>Prezzi aggiornati al: 01/01/2026</h3>        
+        <h3>Prezzi aggiornati al: 01/01/2026</h3>
 	</header>
 
 	<!-- CARTE NON TROVATE -->
@@ -177,15 +177,40 @@
             .split(/\r?\n/)
             .filter(s => s.length > 0)
             .map(line => {
-                line = line.trimEnd();
+                line = toNamekey(line);
                 const match = line.match(/^(\d+)\s+(.*)$/);
                 // console.log('after match: ', match);
                 return match ? { quantity: Number(match[1]), name: match[2] } : { quantity: 1, name: line }
             });
     }
 
+    function toNamekey(line) { return line.trim().toLowerCase(); }
+
     function findPrice(name) {
-        return cards.find((c) => c.name.toLowerCase() == name.toLowerCase()) ?? null;
+        return binarySearch(name);
+    }
+
+    function linearSearch(name) { return cards.find((c) => c.nameKey.localeCompare(name) == 0) ?? null; }
+
+    function binarySearch(targetCardname) {
+
+        let left = 0;
+        let right = cards.length -1;
+
+        while (left <= right) {
+            const mid = (left + right) >> 1;
+            const midName = cards[mid].nameKey;
+
+            let res = targetCardname.localeCompare(midName);
+
+            if (res == 0) return cards[mid];
+            if (res > 0) 
+                left = mid +1;
+            else
+                right = mid -1;
+        }
+
+        return null;
     }
 
     function calculatePrice() {
@@ -220,7 +245,7 @@
         document.getElementById('totalAmount').innerHTML = `${totalPrice.toFixed(2)}€`;
         document.getElementById('cardsNumber').innerHTML = `${cardsNumber}`;
         // console.log('priced deck list: ', pricedDecklist)
-        document.getElementById('pricelist').value = pricedDecklist.map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
+        document.getElementById('pricelist').value = toPricedDecklistEntry(pricedDecklist);
         
         if (priceNotFoundCards.length > 0) {
             document.getElementById('notFoundDiv').classList.remove('hidden');
@@ -231,14 +256,18 @@
         }
     }
 
+    function toPricedDecklistEntry(decklist) {
+        return decklist.map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
+    }
+
     function sortForPrice() {
-        document.getElementById('pricelist').value = pricedDecklist.sort((a, b) => (a.price < b.price))
-                                                        .map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
+        let sorted = pricedDecklist.sort((a, b) => (a.price < b.price));
+        document.getElementById('pricelist').value = toPricedDecklistEntry(sorted);
     }
 
     function sortForName() {
-        document.getElementById('pricelist').value = pricedDecklist.sort((a, b) => ((a.name).localeCompare(b.name)))
-                                                        .map(o => `${o.name} - ${o.quantity}x ${o.price.toFixed(2)}€`).join('\n');
+        let sorted = pricedDecklist.sort((a, b) => ((a.name).localeCompare(b.name)));
+        document.getElementById('pricelist').value = toPricedDecklistEntry(sorted);
     }
 </script>
 </html>
