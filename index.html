@@ -102,6 +102,46 @@
         display: none !important;
     }
 
+    /** immagine esempio */
+    .card-hover {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        border-bottom: 1px dashed #888;
+    }
+
+    .card-hover img {
+        position: absolute;
+        bottom: 120%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 220px;
+        max-width: 80vw;
+        display: none;
+        border: 1px solid #444;
+        background: black;
+        z-index: 10;
+    }
+
+    /* DESKTOP: hover */
+    .card-hover:hover img {
+        display: block;
+    }
+
+    /* MOBILE: tap */
+    .card-hover:focus-within img {
+        display: block;
+    }
+
+    .card-name:hover,
+    .card-hover:focus-within .card-name {
+        border-bottom-color: white;
+        background-color: rgba(255,255,255,0.1);
+    }
+    
+    header {
+        margin-bottom: 10px;
+    }
 	/* MOBILE */
 	@media (max-width: 900px) {
 		.container {
@@ -113,8 +153,13 @@
     <header>
         <h1>MTG Deck Price Calculator</h1>
         <h3>Prezzi aggiornati al: 01/01/2026</h3>
-	</header>
 
+        <div>Per listare una carta multifaccia <span style="font-style:italic;">(carte avventura, bifronte, flip, split)</span>, scrivere i nomi delle due parti separati da un doppio slash //</div>
+        <div class="card-hover">
+            Mosswood Dreadknight<span class="status wrong">❌</span> -> Mosswood Dreadknight // Dread Whispers<span class="status correct">✅</span>
+            <img src="https://cards.scryfall.io/large/front/9/8/9869ac70-5907-45fa-952c-31aef70c5066.jpg?1692939707" alt="Mosswood Dreadknight" />
+        </div>
+	</header>
 	<!-- CARTE NON TROVATE -->
     <div id="notFoundDiv" class="hidden">
         <div class="column">
