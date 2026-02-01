@@ -230,11 +230,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Aberrant Return",
-    "nameKey": "aberrant return",
-    "eurPrice": 0.11
-  },
-  {
     "name": "Abeyance",
     "nameKey": "abeyance",
     "eurPrice": 9.4
@@ -253,11 +248,6 @@
     "name": "Abiding Grace",
     "nameKey": "abiding grace",
     "eurPrice": 0.14
-  },
-  {
-    "name": "Abigale, Eloquent First-Year",
-    "nameKey": "abigale, eloquent first-year",
-    "eurPrice": 0.02
   },
   {
     "name": "Abjure",
@@ -423,11 +413,6 @@
     "name": "Abundance",
     "nameKey": "abundance",
     "eurPrice": 0.56
-  },
-  {
-    "name": "Abundant Countryside",
-    "nameKey": "abundant countryside",
-    "eurPrice": 6.45
   },
   {
     "name": "Abundant Growth",
@@ -998,11 +983,6 @@
     "name": "Adeliz, the Cinder Wind",
     "nameKey": "adeliz, the cinder wind",
     "eurPrice": 0.2
-  },
-  {
-    "name": "Adept Watershaper",
-    "nameKey": "adept watershaper",
-    "eurPrice": 0.02
   },
   {
     "name": "Adéwalé, Breaker of Chains",
@@ -2253,11 +2233,6 @@
     "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
     "nameKey": "ajani, nacatl pariah // ajani, nacatl avenger",
     "eurPrice": 10.42
-  },
-  {
-    "name": "Ajani, Outland Chaperone",
-    "nameKey": "ajani, outland chaperone",
-    "eurPrice": 0.02
   },
   {
     "name": "Ajani, Sleeper Agent",
@@ -4985,11 +4960,6 @@
     "eurPrice": 0.08
   },
   {
-    "name": "Appeal to Eirdu",
-    "nameKey": "appeal to eirdu",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Appendage Amalgam",
     "nameKey": "appendage amalgam",
     "eurPrice": 0.05
@@ -5073,11 +5043,6 @@
     "name": "Aqueous Form",
     "nameKey": "aqueous form",
     "eurPrice": 0.33
-  },
-  {
-    "name": "Aquitect's Defenses",
-    "nameKey": "aquitect's defenses",
-    "eurPrice": 0.03
   },
   {
     "name": "Aquitect's Will",
@@ -7015,24 +6980,9 @@
     "eurPrice": 4.89
   },
   {
-    "name": "Ashling, Rekindled // Ashling, Rimebound",
-    "nameKey": "ashling, rekindled // ashling, rimebound",
-    "eurPrice": 0.26
-  },
-  {
     "name": "Ashling, the Extinguisher",
     "nameKey": "ashling, the extinguisher",
     "eurPrice": 6.27
-  },
-  {
-    "name": "Ashling, the Limitless",
-    "nameKey": "ashling, the limitless",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Ashling's Command",
-    "nameKey": "ashling's command",
-    "eurPrice": 0.02
   },
   {
     "name": "Ashling's Prerogative",
@@ -7288,11 +7238,6 @@
     "name": "Assert Authority",
     "nameKey": "assert authority",
     "eurPrice": 0.18
-  },
-  {
-    "name": "Assert Perfection",
-    "nameKey": "assert perfection",
-    "eurPrice": 0.05
   },
   {
     "name": "Assimilate Essence",
@@ -7695,19 +7640,9 @@
     "eurPrice": 2.85
   },
   {
-    "name": "Auntie Ool, Cursewretch",
-    "nameKey": "auntie ool, cursewretch",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Auntie's Hovel",
     "nameKey": "auntie's hovel",
     "eurPrice": 3.64
-  },
-  {
-    "name": "Auntie's Sentence",
-    "nameKey": "auntie's sentence",
-    "eurPrice": 0.03
   },
   {
     "name": "Auntie's Snitch",
@@ -7908,11 +7843,6 @@
     "name": "Auron's Inspiration",
     "nameKey": "auron's inspiration",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Aurora Awakener",
-    "nameKey": "aurora awakener",
-    "eurPrice": 0.83
   },
   {
     "name": "Aurora Champion",
@@ -9740,11 +9670,6 @@
     "eurPrice": 0.16
   },
   {
-    "name": "Barbed Bloodletter",
-    "nameKey": "barbed bloodletter",
-    "eurPrice": 0.03
-  },
-  {
     "name": "Barbed Field",
     "nameKey": "barbed field",
     "eurPrice": 0.12
@@ -9838,11 +9763,6 @@
     "name": "Barishi",
     "nameKey": "barishi",
     "eurPrice": 0.17
-  },
-  {
-    "name": "Bark of Doran",
-    "nameKey": "bark of doran",
-    "eurPrice": 0.11
   },
   {
     "name": "Bark-Knuckle Boxer",
@@ -11210,11 +11130,6 @@
     "eurPrice": 0.04
   },
   {
-    "name": "Belonging",
-    "nameKey": "belonging",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Beloved Beggar // Generous Soul",
     "nameKey": "beloved beggar // generous soul",
     "eurPrice": 0.07
@@ -11710,11 +11625,6 @@
     "eurPrice": 0.02
   },
   {
-    "name": "Bile-Vial Boggart",
-    "nameKey": "bile-vial boggart",
-    "eurPrice": 0.05
-  },
-  {
     "name": "Bilious Skulldweller",
     "nameKey": "bilious skulldweller",
     "eurPrice": 0.14
@@ -12058,11 +11968,6 @@
     "name": "Bitterblade Warrior",
     "nameKey": "bitterblade warrior",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Bitterbloom Bearer",
-    "nameKey": "bitterbloom bearer",
-    "eurPrice": 15.23
   },
   {
     "name": "Bitterblossom",
@@ -12770,11 +12675,6 @@
     "eurPrice": 0.09
   },
   {
-    "name": "Blight Rot",
-    "nameKey": "blight rot",
-    "eurPrice": 0.06
-  },
-  {
     "name": "Blight Sickle",
     "nameKey": "blight sickle",
     "eurPrice": 0.07
@@ -12813,11 +12713,6 @@
     "name": "Blighted Bat",
     "nameKey": "blighted bat",
     "eurPrice": 0.07
-  },
-  {
-    "name": "Blighted Blackthorn",
-    "nameKey": "blighted blackthorn",
-    "eurPrice": 0.02
   },
   {
     "name": "Blighted Burgeoning",
@@ -13660,11 +13555,6 @@
     "eurPrice": 0.19
   },
   {
-    "name": "Bloodline Bidding",
-    "nameKey": "bloodline bidding",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Bloodline Culling",
     "nameKey": "bloodline culling",
     "eurPrice": 0.15
@@ -13953,11 +13843,6 @@
     "name": "Blossom Prancer",
     "nameKey": "blossom prancer",
     "eurPrice": 0.16
-  },
-  {
-    "name": "Blossombind",
-    "nameKey": "blossombind",
-    "eurPrice": 0.04
   },
   {
     "name": "Blossoming Bogbeast",
@@ -14305,11 +14190,6 @@
     "eurPrice": 0.03
   },
   {
-    "name": "Boggart Cursecrafter",
-    "nameKey": "boggart cursecrafter",
-    "eurPrice": 0.16
-  },
-  {
     "name": "Boggart Forager",
     "nameKey": "boggart forager",
     "eurPrice": 0.1
@@ -14325,19 +14205,9 @@
     "eurPrice": 0.04
   },
   {
-    "name": "Boggart Mischief",
-    "nameKey": "boggart mischief",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Boggart Mob",
     "nameKey": "boggart mob",
     "eurPrice": 0.47
-  },
-  {
-    "name": "Boggart Prankster",
-    "nameKey": "boggart prankster",
-    "eurPrice": 0.02
   },
   {
     "name": "Boggart Ram-Gang",
@@ -14358,11 +14228,6 @@
     "name": "Boggart Trawler // Boggart Bog",
     "nameKey": "boggart trawler // boggart bog",
     "eurPrice": 1.56
-  },
-  {
-    "name": "Bogslither's Embrace",
-    "nameKey": "bogslither's embrace",
-    "eurPrice": 0.06
   },
   {
     "name": "Bogstomper",
@@ -14453,11 +14318,6 @@
     "name": "Bold Plagiarist",
     "nameKey": "bold plagiarist",
     "eurPrice": 0.23
-  },
-  {
-    "name": "Boldwyr Aggressor",
-    "nameKey": "boldwyr aggressor",
-    "eurPrice": 0.06
   },
   {
     "name": "Boldwyr Heavyweights",
@@ -14728,11 +14588,6 @@
     "name": "Boneclad Necromancer",
     "nameKey": "boneclad necromancer",
     "eurPrice": 0.04
-  },
-  {
-    "name": "Boneclub Berserker",
-    "nameKey": "boneclub berserker",
-    "eurPrice": 0.06
   },
   {
     "name": "Bonecrusher Giant // Stomp",
@@ -15320,11 +15175,6 @@
     "eurPrice": 0.89
   },
   {
-    "name": "Boulder Dash",
-    "nameKey": "boulder dash",
-    "eurPrice": 0.08
-  },
-  {
     "name": "Boulder Salvo",
     "nameKey": "boulder salvo",
     "eurPrice": 0.03
@@ -15665,11 +15515,6 @@
     "eurPrice": 0.09
   },
   {
-    "name": "Brambleback Brute",
-    "nameKey": "brambleback brute",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Bramblecrush",
     "nameKey": "bramblecrush",
     "eurPrice": 0.06
@@ -15908,11 +15753,6 @@
     "name": "Brazen Wolves",
     "nameKey": "brazen wolves",
     "eurPrice": 0.03
-  },
-  {
-    "name": "Bre of Clan Stoutarm",
-    "nameKey": "bre of clan stoutarm",
-    "eurPrice": 0.02
   },
   {
     "name": "Breach",
@@ -16325,19 +16165,9 @@
     "eurPrice": 0.15
   },
   {
-    "name": "Brigid, Clachan's Heart // Brigid, Doun's Mind",
-    "nameKey": "brigid, clachan's heart // brigid, doun's mind",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Brigid, Hero of Kinsbaile",
     "nameKey": "brigid, hero of kinsbaile",
     "eurPrice": 0.74
-  },
-  {
-    "name": "Brigid's Command",
-    "nameKey": "brigid's command",
-    "eurPrice": 0.02
   },
   {
     "name": "Brigone, Soldier of Meletis",
@@ -16543,16 +16373,6 @@
     "name": "Brisela, Voice of Nightmares",
     "nameKey": "brisela, voice of nightmares",
     "eurPrice": null
-  },
-  {
-    "name": "Bristlebane Battler",
-    "nameKey": "bristlebane battler",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Bristlebane Outrider",
-    "nameKey": "bristlebane outrider",
-    "eurPrice": 0.08
   },
   {
     "name": "Bristlebud Farmer",
@@ -17250,11 +17070,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Burdened Stoneback",
-    "nameKey": "burdened stoneback",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Bureau Headmaster",
     "nameKey": "bureau headmaster",
     "eurPrice": 2.36
@@ -17353,11 +17168,6 @@
     "name": "Burning Cloak",
     "nameKey": "burning cloak",
     "eurPrice": 0.2
-  },
-  {
-    "name": "Burning Curiosity",
-    "nameKey": "burning curiosity",
-    "eurPrice": 0.03
   },
   {
     "name": "Burning Earth",
@@ -19565,11 +19375,6 @@
     "eurPrice": 4.01
   },
   {
-    "name": "Catharsis",
-    "nameKey": "catharsis",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Cathartic Adept",
     "nameKey": "cathartic adept",
     "eurPrice": 0.19
@@ -19998,11 +19803,6 @@
     "name": "Celestial Regulator",
     "nameKey": "celestial regulator",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Celestial Reunion",
-    "nameKey": "celestial reunion",
-    "eurPrice": 0.02
   },
   {
     "name": "Celestial Sword",
@@ -20610,11 +20410,6 @@
     "eurPrice": 0.23
   },
   {
-    "name": "Champion of the Clachan",
-    "nameKey": "champion of the clachan",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Champion of the Flame",
     "nameKey": "champion of the flame",
     "eurPrice": 0.04
@@ -20625,19 +20420,9 @@
     "eurPrice": 1.1
   },
   {
-    "name": "Champion of the Path",
-    "nameKey": "champion of the path",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Champion of the Perished",
     "nameKey": "champion of the perished",
     "eurPrice": 0.9
-  },
-  {
-    "name": "Champion of the Weird",
-    "nameKey": "champion of the weird",
-    "eurPrice": 0.02
   },
   {
     "name": "Champion of Wits",
@@ -20668,16 +20453,6 @@
     "name": "Champions of Minas Tirith",
     "nameKey": "champions of minas tirith",
     "eurPrice": 0.4
-  },
-  {
-    "name": "Champions of the Perfect",
-    "nameKey": "champions of the perfect",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Champions of the Shoal",
-    "nameKey": "champions of the shoal",
-    "eurPrice": 0.02
   },
   {
     "name": "Chance Encounter",
@@ -20970,11 +20745,6 @@
     "eurPrice": 0.44
   },
   {
-    "name": "Changeling Wayfinder",
-    "nameKey": "changeling wayfinder",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Channel",
     "nameKey": "channel",
     "eurPrice": 0.29
@@ -21073,11 +20843,6 @@
     "name": "Chaos Shrine's Black Crystal",
     "nameKey": "chaos shrine's black crystal",
     "eurPrice": 4.63
-  },
-  {
-    "name": "Chaos Spewer",
-    "nameKey": "chaos spewer",
-    "eurPrice": 0.05
   },
   {
     "name": "Chaos Terminator Lord",
@@ -21665,11 +21430,6 @@
     "eurPrice": 0.14
   },
   {
-    "name": "Chitinous Graspling",
-    "nameKey": "chitinous graspling",
-    "eurPrice": 0.05
-  },
-  {
     "name": "Chittering Dispatcher",
     "nameKey": "chittering dispatcher",
     "eurPrice": 0.29
@@ -21813,11 +21573,6 @@
     "name": "Choking Vines",
     "nameKey": "choking vines",
     "eurPrice": 0.12
-  },
-  {
-    "name": "Chomping Changeling",
-    "nameKey": "chomping changeling",
-    "eurPrice": 0.17
   },
   {
     "name": "Chomping Kavu",
@@ -21980,11 +21735,6 @@
     "eurPrice": 0.16
   },
   {
-    "name": "Chronicle of Victory",
-    "nameKey": "chronicle of victory",
-    "eurPrice": 7.73
-  },
-  {
     "name": "Chronicler of Heroes",
     "nameKey": "chronicler of heroes",
     "eurPrice": 0.05
@@ -22123,11 +21873,6 @@
     "name": "Cinder Storm",
     "nameKey": "cinder storm",
     "eurPrice": 0.11
-  },
-  {
-    "name": "Cinder Strike",
-    "nameKey": "cinder strike",
-    "eurPrice": 0.05
   },
   {
     "name": "Cinder Wall",
@@ -22443,11 +22188,6 @@
     "name": "Civilized Scholar // Homicidal Brute",
     "nameKey": "civilized scholar // homicidal brute",
     "eurPrice": 0.07
-  },
-  {
-    "name": "Clachan Festival",
-    "nameKey": "clachan festival",
-    "eurPrice": 0.08
   },
   {
     "name": "Clackbridge Troll",
@@ -23778,11 +23518,6 @@
     "name": "Collective Effort",
     "nameKey": "collective effort",
     "eurPrice": 0.21
-  },
-  {
-    "name": "Collective Inferno",
-    "nameKey": "collective inferno",
-    "eurPrice": 0.02
   },
   {
     "name": "Collective Nightmare",
@@ -26520,11 +26255,6 @@
     "eurPrice": 0.77
   },
   {
-    "name": "Creakwood Safewright",
-    "nameKey": "creakwood safewright",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Cream of the Crop",
     "nameKey": "cream of the crop",
     "eurPrice": 5.98
@@ -26888,11 +26618,6 @@
     "name": "Crossroads Village",
     "nameKey": "crossroads village",
     "eurPrice": 0.1
-  },
-  {
-    "name": "Crossroads Watcher",
-    "nameKey": "crossroads watcher",
-    "eurPrice": 0.04
   },
   {
     "name": "Crosstown Courier",
@@ -27858,11 +27583,6 @@
     "name": "Curious Cadaver",
     "nameKey": "curious cadaver",
     "eurPrice": 0.03
-  },
-  {
-    "name": "Curious Colossus",
-    "nameKey": "curious colossus",
-    "eurPrice": 0.02
   },
   {
     "name": "Curious Farm Animals",
@@ -29195,11 +28915,6 @@
     "eurPrice": 5.33
   },
   {
-    "name": "Darkness Descends",
-    "nameKey": "darkness descends",
-    "eurPrice": 0.09
-  },
-  {
     "name": "Darkpact",
     "nameKey": "darkpact",
     "eurPrice": 1.07
@@ -29585,16 +29300,6 @@
     "eurPrice": 0.14
   },
   {
-    "name": "Dawn-Blessed Pennant",
-    "nameKey": "dawn-blessed pennant",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Dawn's Light Archer",
-    "nameKey": "dawn's light archer",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Dawn's Reflection",
     "nameKey": "dawn's reflection",
     "eurPrice": 0.06
@@ -29643,16 +29348,6 @@
     "name": "Dawnglow Infusion",
     "nameKey": "dawnglow infusion",
     "eurPrice": 0.19
-  },
-  {
-    "name": "Dawnhand Dissident",
-    "nameKey": "dawnhand dissident",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Dawnhand Eulogist",
-    "nameKey": "dawnhand eulogist",
-    "eurPrice": 0.06
   },
   {
     "name": "Dawnhart Disciple",
@@ -30605,11 +30300,6 @@
     "eurPrice": 0.28
   },
   {
-    "name": "Deceit",
-    "nameKey": "deceit",
-    "eurPrice": 8.32
-  },
-  {
     "name": "Deceive the Messenger",
     "nameKey": "deceive the messenger",
     "eurPrice": 0.05
@@ -30870,11 +30560,6 @@
     "eurPrice": 0.03
   },
   {
-    "name": "Deepchannel Duelist",
-    "nameKey": "deepchannel duelist",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Deepchannel Mentor",
     "nameKey": "deepchannel mentor",
     "eurPrice": 1.56
@@ -30948,11 +30633,6 @@
     "name": "Deepwater Hypnotist",
     "nameKey": "deepwater hypnotist",
     "eurPrice": 0.03
-  },
-  {
-    "name": "Deepway Navigator",
-    "nameKey": "deepway navigator",
-    "eurPrice": 0.02
   },
   {
     "name": "Deepwood Denizen",
@@ -33585,11 +33265,6 @@
     "eurPrice": 1.68
   },
   {
-    "name": "Disruptor of Currents",
-    "nameKey": "disruptor of currents",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Disruptor Wanderglyph",
     "nameKey": "disruptor wanderglyph",
     "eurPrice": 0.02
@@ -34375,11 +34050,6 @@
     "eurPrice": 0.42
   },
   {
-    "name": "Doran, Besieged by Time",
-    "nameKey": "doran, besieged by time",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Doran, the Siege Tower",
     "nameKey": "doran, the siege tower",
     "eurPrice": 0.88
@@ -34418,11 +34088,6 @@
     "name": "Dosan's Oldest Chant",
     "nameKey": "dosan's oldest chant",
     "eurPrice": 0.08
-  },
-  {
-    "name": "Dose of Dawnglow",
-    "nameKey": "dose of dawnglow",
-    "eurPrice": 0.04
   },
   {
     "name": "Double Cleave",
@@ -35445,11 +35110,6 @@
     "eurPrice": 0.22
   },
   {
-    "name": "Dread Tiller",
-    "nameKey": "dread tiller",
-    "eurPrice": 0.41
-  },
-  {
     "name": "Dread Wanderer",
     "nameKey": "dread wanderer",
     "eurPrice": 0.62
@@ -35600,11 +35260,6 @@
     "eurPrice": 18.54
   },
   {
-    "name": "Dream Harvest",
-    "nameKey": "dream harvest",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Dream Leash",
     "nameKey": "dream leash",
     "eurPrice": 0.23
@@ -35623,11 +35278,6 @@
     "name": "Dream Salvage",
     "nameKey": "dream salvage",
     "eurPrice": 0.42
-  },
-  {
-    "name": "Dream Seizer",
-    "nameKey": "dream seizer",
-    "eurPrice": 0.02
   },
   {
     "name": "Dream Spoilers",
@@ -36563,11 +36213,6 @@
     "name": "Dulcet Sirens",
     "nameKey": "dulcet sirens",
     "eurPrice": 0.72
-  },
-  {
-    "name": "Dundoolin Weaver",
-    "nameKey": "dundoolin weaver",
-    "eurPrice": 0.05
   },
   {
     "name": "Dune Beetle",
@@ -37680,36 +37325,6 @@
     "eurPrice": 0.2
   },
   {
-    "name": "Eclipsed Boggart",
-    "nameKey": "eclipsed boggart",
-    "eurPrice": 0.07
-  },
-  {
-    "name": "Eclipsed Elf",
-    "nameKey": "eclipsed elf",
-    "eurPrice": 0.11
-  },
-  {
-    "name": "Eclipsed Flamekin",
-    "nameKey": "eclipsed flamekin",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Eclipsed Kithkin",
-    "nameKey": "eclipsed kithkin",
-    "eurPrice": 0.05
-  },
-  {
-    "name": "Eclipsed Merrow",
-    "nameKey": "eclipsed merrow",
-    "eurPrice": 0.08
-  },
-  {
-    "name": "Eclipsed Realms",
-    "nameKey": "eclipsed realms",
-    "eurPrice": 0.28
-  },
-  {
     "name": "Ecological Appreciation",
     "nameKey": "ecological appreciation",
     "eurPrice": 0.74
@@ -37995,11 +37610,6 @@
     "eurPrice": 11.48
   },
   {
-    "name": "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",
-    "nameKey": "eirdu, carrier of dawn // isilu, carrier of twilight",
-    "eurPrice": 3.3
-  },
-  {
     "name": "Eivor, Battle-Ready",
     "nameKey": "eivor, battle-ready",
     "eurPrice": 1.57
@@ -38078,11 +37688,6 @@
     "name": "Elder Arthur Maxson",
     "nameKey": "elder arthur maxson",
     "eurPrice": 0.17
-  },
-  {
-    "name": "Elder Auntie",
-    "nameKey": "elder auntie",
-    "eurPrice": 0.04
   },
   {
     "name": "Elder Brain",
@@ -38398,11 +38003,6 @@
     "name": "Elemental Resonance",
     "nameKey": "elemental resonance",
     "eurPrice": 0.32
-  },
-  {
-    "name": "Elemental Spectacle",
-    "nameKey": "elemental spectacle",
-    "eurPrice": 0.03
   },
   {
     "name": "Elemental Summoning",
@@ -39540,11 +39140,6 @@
     "eurPrice": 5.84
   },
   {
-    "name": "Emptiness",
-    "nameKey": "emptiness",
-    "eurPrice": 3.2
-  },
-  {
     "name": "Empty City Ruse",
     "nameKey": "empty city ruse",
     "eurPrice": 2.16
@@ -39730,11 +39325,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Encumbered Reejerey",
-    "nameKey": "encumbered reejerey",
-    "eurPrice": 0.1
-  },
-  {
     "name": "End Hostilities",
     "nameKey": "end hostilities",
     "eurPrice": 0.32
@@ -39743,11 +39333,6 @@
     "name": "End the Festivities",
     "nameKey": "end the festivities",
     "eurPrice": 1.42
-  },
-  {
-    "name": "End-Blaze Epiphany",
-    "nameKey": "end-blaze epiphany",
-    "eurPrice": 0.02
   },
   {
     "name": "End-Raze Forerunners",
@@ -40148,11 +39733,6 @@
     "name": "Enraged Ceratok",
     "nameKey": "enraged ceratok",
     "eurPrice": 0.03
-  },
-  {
-    "name": "Enraged Flamecaster",
-    "nameKey": "enraged flamecaster",
-    "eurPrice": 0.07
   },
   {
     "name": "Enraged Giant",
@@ -41525,11 +41105,6 @@
     "eurPrice": 12.11
   },
   {
-    "name": "Eventide's Shadow",
-    "nameKey": "eventide's shadow",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Ever After",
     "nameKey": "ever after",
     "eurPrice": 0.15
@@ -41608,11 +41183,6 @@
     "name": "Evershrike",
     "nameKey": "evershrike",
     "eurPrice": 0.65
-  },
-  {
-    "name": "Evershrike's Gift",
-    "nameKey": "evershrike's gift",
-    "eurPrice": 0.1
   },
   {
     "name": "Everybody Lives!",
@@ -42223,11 +41793,6 @@
     "name": "Explosive Impact",
     "nameKey": "explosive impact",
     "eurPrice": 0.04
-  },
-  {
-    "name": "Explosive Prodigy",
-    "nameKey": "explosive prodigy",
-    "eurPrice": 0.02
   },
   {
     "name": "Explosive Revelation",
@@ -44215,11 +43780,6 @@
     "eurPrice": 0.33
   },
   {
-    "name": "Feed the Flames",
-    "nameKey": "feed the flames",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Feed the Infection",
     "nameKey": "feed the infection",
     "eurPrice": 0.08
@@ -44268,11 +43828,6 @@
     "name": "Feint",
     "nameKey": "feint",
     "eurPrice": 0.52
-  },
-  {
-    "name": "Feisty Spikeling",
-    "nameKey": "feisty spikeling",
-    "eurPrice": 0.04
   },
   {
     "name": "Feiyi Snake",
@@ -44643,11 +44198,6 @@
     "name": "Feroz's Ban",
     "nameKey": "feroz's ban",
     "eurPrice": 0.37
-  },
-  {
-    "name": "Ferrafor, Young Yew",
-    "nameKey": "ferrafor, young yew",
-    "eurPrice": 0.02
   },
   {
     "name": "Ferris Wheel",
@@ -45190,11 +44740,6 @@
     "eurPrice": 0.31
   },
   {
-    "name": "Figure of Fable",
-    "nameKey": "figure of fable",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Filigree Angel",
     "nameKey": "filigree angel",
     "eurPrice": 0.16
@@ -45403,11 +44948,6 @@
     "name": "Firbolg Flutist",
     "nameKey": "firbolg flutist",
     "eurPrice": 0.42
-  },
-  {
-    "name": "Firdoch Core",
-    "nameKey": "firdoch core",
-    "eurPrice": 0.09
   },
   {
     "name": "Fire // Ice",
@@ -46150,11 +45690,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Flame-Chain Mauler",
-    "nameKey": "flame-chain mauler",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Flame-Kin War Scout",
     "nameKey": "flame-kin war scout",
     "eurPrice": 0.11
@@ -46195,11 +45730,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Flamebraider",
-    "nameKey": "flamebraider",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Flamebreak",
     "nameKey": "flamebreak",
     "eurPrice": 0.8
@@ -46232,11 +45762,6 @@
   {
     "name": "Flamekin Brawler",
     "nameKey": "flamekin brawler",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Flamekin Gildweaver",
-    "nameKey": "flamekin gildweaver",
     "eurPrice": 0.02
   },
   {
@@ -46408,11 +45933,6 @@
     "name": "Flare of Malice",
     "nameKey": "flare of malice",
     "eurPrice": 2.27
-  },
-  {
-    "name": "Flaring Cinder",
-    "nameKey": "flaring cinder",
-    "eurPrice": 0.03
   },
   {
     "name": "Flaring Flame-Kin",
@@ -46840,11 +46360,6 @@
     "eurPrice": 0.24
   },
   {
-    "name": "Flitterwing Nuisance",
-    "nameKey": "flitterwing nuisance",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Flitting Guerrilla",
     "nameKey": "flitting guerrilla",
     "eurPrice": 0.07
@@ -46858,11 +46373,6 @@
     "name": "Floating-Dream Zubera",
     "nameKey": "floating-dream zubera",
     "eurPrice": 0.2
-  },
-  {
-    "name": "Flock Impostor",
-    "nameKey": "flock impostor",
-    "eurPrice": 0.02
   },
   {
     "name": "Flockchaser Phantom",
@@ -47540,11 +47050,6 @@
     "eurPrice": 0.09
   },
   {
-    "name": "Foraging Wickermaw",
-    "nameKey": "foraging wickermaw",
-    "eurPrice": 0.06
-  },
-  {
     "name": "Foratog",
     "nameKey": "foratog",
     "eurPrice": 0.15
@@ -47988,11 +47493,6 @@
     "name": "Formation Breaker",
     "nameKey": "formation breaker",
     "eurPrice": 0.07
-  },
-  {
-    "name": "Formidable Speaker",
-    "nameKey": "formidable speaker",
-    "eurPrice": 14.41
   },
   {
     "name": "Formless Genesis",
@@ -49780,11 +49280,6 @@
     "eurPrice": 0.04
   },
   {
-    "name": "Gallant Fowlknight",
-    "nameKey": "gallant fowlknight",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Gallant Pie-Wielder",
     "nameKey": "gallant pie-wielder",
     "eurPrice": 0.06
@@ -49998,11 +49493,6 @@
     "name": "Gang Up",
     "nameKey": "gang up",
     "eurPrice": 0.2
-  },
-  {
-    "name": "Gangly Stompling",
-    "nameKey": "gangly stompling",
-    "eurPrice": 0.04
   },
   {
     "name": "Gangrenous Goliath",
@@ -50358,11 +49848,6 @@
     "name": "Gatherer of Graces",
     "nameKey": "gatherer of graces",
     "eurPrice": 0.1
-  },
-  {
-    "name": "Gathering Stone",
-    "nameKey": "gathering stone",
-    "eurPrice": 0.19
   },
   {
     "name": "Gathering Throng",
@@ -51735,11 +51220,6 @@
     "eurPrice": 0.04
   },
   {
-    "name": "Giantfall",
-    "nameKey": "giantfall",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Gibbering Barricade",
     "nameKey": "gibbering barricade",
     "eurPrice": 0.03
@@ -52120,11 +51600,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Gilt-Leaf's Embrace",
-    "nameKey": "gilt-leaf's embrace",
-    "eurPrice": 0.03
-  },
-  {
     "name": "Giltgrove Stalker",
     "nameKey": "giltgrove stalker",
     "eurPrice": 0.06
@@ -52435,11 +51910,6 @@
     "eurPrice": 1.51
   },
   {
-    "name": "Glamer Gifter",
-    "nameKey": "glamer gifter",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Glamer Spinners",
     "nameKey": "glamer spinners",
     "eurPrice": 0.1
@@ -52448,11 +51918,6 @@
     "name": "Glamerdye",
     "nameKey": "glamerdye",
     "eurPrice": 2.11
-  },
-  {
-    "name": "Glamermite",
-    "nameKey": "glamermite",
-    "eurPrice": 0.04
   },
   {
     "name": "Glamorous Outlaw",
@@ -52615,11 +52080,6 @@
     "eurPrice": 6.78
   },
   {
-    "name": "Glen Elendra Guardian",
-    "nameKey": "glen elendra guardian",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Glen Elendra Liege",
     "nameKey": "glen elendra liege",
     "eurPrice": 0.41
@@ -52628,11 +52088,6 @@
     "name": "Glen Elendra Pranksters",
     "nameKey": "glen elendra pranksters",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Glen Elendra's Answer",
-    "nameKey": "glen elendra's answer",
-    "eurPrice": 0.02
   },
   {
     "name": "Glidedive Duo",
@@ -52885,11 +52340,6 @@
     "eurPrice": 9.06
   },
   {
-    "name": "Glister Bairn",
-    "nameKey": "glister bairn",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Glitch Ghost Surveyor",
     "nameKey": "glitch ghost surveyor",
     "eurPrice": 0.02
@@ -52963,11 +52413,6 @@
     "name": "Gloom Pangolin",
     "nameKey": "gloom pangolin",
     "eurPrice": 0.04
-  },
-  {
-    "name": "Gloom Ripper",
-    "nameKey": "gloom ripper",
-    "eurPrice": 0.02
   },
   {
     "name": "Gloom Sower",
@@ -53228,11 +52673,6 @@
     "name": "Gnarlback Rhino",
     "nameKey": "gnarlback rhino",
     "eurPrice": 0.08
-  },
-  {
-    "name": "Gnarlbark Elm",
-    "nameKey": "gnarlbark elm",
-    "eurPrice": 0.03
   },
   {
     "name": "Gnarled Effigy",
@@ -54550,11 +53990,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Goldmeadow Nomad",
-    "nameKey": "goldmeadow nomad",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Goldmeadow Stalwart",
     "nameKey": "goldmeadow stalwart",
     "eurPrice": 0.09
@@ -54718,11 +54153,6 @@
     "name": "Goliath Beetle",
     "nameKey": "goliath beetle",
     "eurPrice": 0.16
-  },
-  {
-    "name": "Goliath Daydreamer",
-    "nameKey": "goliath daydreamer",
-    "eurPrice": 0.02
   },
   {
     "name": "Goliath Hatchery",
@@ -55455,11 +54885,6 @@
     "eurPrice": 0.42
   },
   {
-    "name": "Grave Venerations",
-    "nameKey": "grave venerations",
-    "eurPrice": 0.91
-  },
-  {
     "name": "Grave-Shell Scarab",
     "nameKey": "grave-shell scarab",
     "eurPrice": 0.24
@@ -55528,11 +54953,6 @@
     "name": "Gravelgill Duo",
     "nameKey": "gravelgill duo",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Gravelgill Scoundrel",
-    "nameKey": "gravelgill scoundrel",
-    "eurPrice": 0.03
   },
   {
     "name": "Gravelighter",
@@ -55748,11 +55168,6 @@
     "name": "Great Divide Guide",
     "nameKey": "great divide guide",
     "eurPrice": 1.43
-  },
-  {
-    "name": "Great Forest Druid",
-    "nameKey": "great forest druid",
-    "eurPrice": 0.09
   },
   {
     "name": "Great Furnace",
@@ -56510,11 +55925,6 @@
     "eurPrice": 1.45
   },
   {
-    "name": "Gristle Glutton",
-    "nameKey": "gristle glutton",
-    "eurPrice": 0.08
-  },
-  {
     "name": "Gristle Grinner",
     "nameKey": "gristle grinner",
     "eurPrice": 0.02
@@ -56778,16 +56188,6 @@
     "name": "Grozoth",
     "nameKey": "grozoth",
     "eurPrice": 1.05
-  },
-  {
-    "name": "Grub, Storied Matriarch // Grub, Notorious Auntie",
-    "nameKey": "grub, storied matriarch // grub, notorious auntie",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Grub's Command",
-    "nameKey": "grub's command",
-    "eurPrice": 0.02
   },
   {
     "name": "Grudge Keeper",
@@ -57443,11 +56843,6 @@
     "name": "Gutless Plunderer",
     "nameKey": "gutless plunderer",
     "eurPrice": 0.03
-  },
-  {
-    "name": "Gutsplitter Gang",
-    "nameKey": "gutsplitter gang",
-    "eurPrice": 0.02
   },
   {
     "name": "Gutter Grime",
@@ -58417,11 +57812,6 @@
   {
     "name": "Harmonize",
     "nameKey": "harmonize",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Harmonized Crescendo",
-    "nameKey": "harmonized crescendo",
     "eurPrice": 0.02
   },
   {
@@ -59625,11 +59015,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Heirloom Auntie",
-    "nameKey": "heirloom auntie",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Heirloom Blade",
     "nameKey": "heirloom blade",
     "eurPrice": 0.13
@@ -60420,11 +59805,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Hexing Squelcher",
-    "nameKey": "hexing squelcher",
-    "eurPrice": 16.15
-  },
-  {
     "name": "Hexmark Destroyer",
     "nameKey": "hexmark destroyer",
     "eurPrice": 0.1
@@ -60678,11 +60058,6 @@
     "name": "High Noon",
     "nameKey": "high noon",
     "eurPrice": 2.13
-  },
-  {
-    "name": "High Perfect Morcant",
-    "nameKey": "high perfect morcant",
-    "eurPrice": 0.12
   },
   {
     "name": "High Priest of Penance",
@@ -62088,11 +61463,6 @@
     "name": "House Guildmage",
     "nameKey": "house guildmage",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Hovel Hurler",
-    "nameKey": "hovel hurler",
-    "eurPrice": 0.02
   },
   {
     "name": "Hover Barrier",
@@ -63590,11 +62960,6 @@
     "eurPrice": 1.99
   },
   {
-    "name": "Illusion Spinners",
-    "nameKey": "illusion spinners",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Illusionary Armor",
     "nameKey": "illusionary armor",
     "eurPrice": 0.12
@@ -64065,11 +63430,6 @@
     "eurPrice": 0.16
   },
   {
-    "name": "Impolite Entrance",
-    "nameKey": "impolite entrance",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Imposing Grandeur",
     "nameKey": "imposing grandeur",
     "eurPrice": 1.16
@@ -64163,11 +63523,6 @@
     "name": "Impulsive Pilferer",
     "nameKey": "impulsive pilferer",
     "eurPrice": 0.25
-  },
-  {
-    "name": "Impulsivity",
-    "nameKey": "impulsivity",
-    "eurPrice": 0.02
   },
   {
     "name": "Imskir Iron-Eater",
@@ -66485,11 +65840,6 @@
     "eurPrice": 0.13
   },
   {
-    "name": "Iron-Shield Elf",
-    "nameKey": "iron-shield elf",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Ironclad Krovod",
     "nameKey": "ironclad krovod",
     "eurPrice": 0.02
@@ -68360,11 +67710,6 @@
     "eurPrice": 0.17
   },
   {
-    "name": "Jubilation",
-    "nameKey": "jubilation",
-    "eurPrice": 1.65
-  },
-  {
     "name": "Judge Magister Gabranth",
     "nameKey": "judge magister gabranth",
     "eurPrice": 0.08
@@ -69925,11 +69270,6 @@
     "eurPrice": 0.07
   },
   {
-    "name": "Keep Out",
-    "nameKey": "keep out",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Keep Safe",
     "nameKey": "keep safe",
     "eurPrice": 0.21
@@ -70660,11 +70000,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Kinbinding",
-    "nameKey": "kinbinding",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Kindercatch",
     "nameKey": "kindercatch",
     "eurPrice": 0.04
@@ -70678,11 +70013,6 @@
     "name": "Kindle the Carnage",
     "nameKey": "kindle the carnage",
     "eurPrice": 0.16
-  },
-  {
-    "name": "Kindle the Inner Flame",
-    "nameKey": "kindle the inner flame",
-    "eurPrice": 0.02
   },
   {
     "name": "Kindled Fury",
@@ -70825,11 +70155,6 @@
     "eurPrice": 9.15
   },
   {
-    "name": "Kinsbaile Aspirant",
-    "nameKey": "kinsbaile aspirant",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Kinsbaile Balloonist",
     "nameKey": "kinsbaile balloonist",
     "eurPrice": 0.02
@@ -70858,11 +70183,6 @@
     "name": "Kinscaer Harpoonist",
     "nameKey": "kinscaer harpoonist",
     "eurPrice": 0.04
-  },
-  {
-    "name": "Kinscaer Sentry",
-    "nameKey": "kinscaer sentry",
-    "eurPrice": 0.02
   },
   {
     "name": "Kinzu of the Bleak Coven",
@@ -70933,11 +70253,6 @@
     "name": "Kiri-Onna",
     "nameKey": "kiri-onna",
     "eurPrice": 0.38
-  },
-  {
-    "name": "Kirol, Attentive First-Year",
-    "nameKey": "kirol, attentive first-year",
-    "eurPrice": 0.02
   },
   {
     "name": "Kirri, Talented Sprout",
@@ -71043,11 +70358,6 @@
     "name": "Kitesail Skirmisher",
     "nameKey": "kitesail skirmisher",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Kithkeeper",
-    "nameKey": "kithkeeper",
-    "eurPrice": 0.04
   },
   {
     "name": "Kithkin Armor",
@@ -72580,16 +71890,6 @@
     "eurPrice": 0.59
   },
   {
-    "name": "Kulrath Mystic",
-    "nameKey": "kulrath mystic",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Kulrath Zealot",
-    "nameKey": "kulrath zealot",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Kumano Faces Kakkazan // Etching of Kumano",
     "nameKey": "kumano faces kakkazan // etching of kumano",
     "eurPrice": 0.22
@@ -73040,11 +72340,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Lamentation",
-    "nameKey": "lamentation",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Lammastide Weave",
     "nameKey": "lammastide weave",
     "eurPrice": 0.03
@@ -73370,11 +72665,6 @@
     "eurPrice": 0.73
   },
   {
-    "name": "Lasting Tarfire",
-    "nameKey": "lasting tarfire",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Lasyd Prowler",
     "nameKey": "lasyd prowler",
     "eurPrice": 0.09
@@ -73598,11 +72888,6 @@
     "name": "Lavalanche",
     "nameKey": "lavalanche",
     "eurPrice": 0.12
-  },
-  {
-    "name": "Lavaleaper",
-    "nameKey": "lavaleaper",
-    "eurPrice": 0.02
   },
   {
     "name": "Lavamancer's Skill",
@@ -75405,11 +74690,6 @@
     "eurPrice": 0.11
   },
   {
-    "name": "Liminal Hold",
-    "nameKey": "liminal hold",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Limited Resources",
     "nameKey": "limited resources",
     "eurPrice": 1.23
@@ -75890,11 +75170,6 @@
     "eurPrice": 0.72
   },
   {
-    "name": "Lluwen, Imperfect Naturalist",
-    "nameKey": "lluwen, imperfect naturalist",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Lo and Li, Royal Advisors",
     "nameKey": "lo and li, royal advisors",
     "eurPrice": 0.46
@@ -76010,11 +75285,6 @@
     "eurPrice": 0.04
   },
   {
-    "name": "Loch Mare",
-    "nameKey": "loch mare",
-    "eurPrice": 1.02
-  },
-  {
     "name": "Lochmere Serpent",
     "nameKey": "lochmere serpent",
     "eurPrice": 0.2
@@ -76103,11 +75373,6 @@
     "name": "Lofty Denial",
     "nameKey": "lofty denial",
     "eurPrice": 0.4
-  },
-  {
-    "name": "Lofty Dreams",
-    "nameKey": "lofty dreams",
-    "eurPrice": 0.05
   },
   {
     "name": "Logic Knot",
@@ -76975,11 +76240,6 @@
     "eurPrice": 0.07
   },
   {
-    "name": "Lucy MacLean, Positively Armed",
-    "nameKey": "lucy maclean, positively armed",
-    "eurPrice": null
-  },
-  {
     "name": "Ludevic, Necro-Alchemist",
     "nameKey": "ludevic, necro-alchemist",
     "eurPrice": 1.58
@@ -77123,11 +76383,6 @@
     "name": "Luminescent Rain",
     "nameKey": "luminescent rain",
     "eurPrice": 0.16
-  },
-  {
-    "name": "Luminollusk",
-    "nameKey": "luminollusk",
-    "eurPrice": 0.03
   },
   {
     "name": "Luminous Angel",
@@ -77460,19 +76715,9 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Lys Alana Dignitary",
-    "nameKey": "lys alana dignitary",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Lys Alana Huntmaster",
     "nameKey": "lys alana huntmaster",
     "eurPrice": 0.3
-  },
-  {
-    "name": "Lys Alana Informant",
-    "nameKey": "lys alana informant",
-    "eurPrice": 0.03
   },
   {
     "name": "Lys Alana Scarblade",
@@ -79050,11 +78295,6 @@
     "eurPrice": 11.95
   },
   {
-    "name": "Maralen, Fae Ascendant",
-    "nameKey": "maralen, fae ascendant",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Marang River Prowler",
     "nameKey": "marang river prowler",
     "eurPrice": 0.1
@@ -79960,11 +79200,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Mass of Mysteries",
-    "nameKey": "mass of mysteries",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Mass Polymorph",
     "nameKey": "mass polymorph",
     "eurPrice": 0.41
@@ -80385,11 +79620,6 @@
     "eurPrice": 0.03
   },
   {
-    "name": "Maximus, Knight Apparent",
-    "nameKey": "maximus, knight apparent",
-    "eurPrice": null
-  },
-  {
     "name": "Mayael the Anima",
     "nameKey": "mayael the anima",
     "eurPrice": 0.72
@@ -80498,11 +79728,6 @@
     "name": "Meandering Towershell",
     "nameKey": "meandering towershell",
     "eurPrice": 0.12
-  },
-  {
-    "name": "Meanders Guide",
-    "nameKey": "meanders guide",
-    "eurPrice": 0.1
   },
   {
     "name": "Measure of Wickedness",
@@ -80628,11 +79853,6 @@
     "name": "Medomai's Prophecy",
     "nameKey": "medomai's prophecy",
     "eurPrice": 0.02
-  },
-  {
-    "name": "Meek Attack",
-    "nameKey": "meek attack",
-    "eurPrice": 0.67
   },
   {
     "name": "Meekstone",
@@ -81365,11 +80585,6 @@
     "eurPrice": 0.18
   },
   {
-    "name": "Merrow Skyswimmer",
-    "nameKey": "merrow skyswimmer",
-    "eurPrice": 0.09
-  },
-  {
     "name": "Merrow Wavebreakers",
     "nameKey": "merrow wavebreakers",
     "eurPrice": 0.06
@@ -81818,11 +81033,6 @@
     "name": "Midnight Snack",
     "nameKey": "midnight snack",
     "eurPrice": 0.13
-  },
-  {
-    "name": "Midnight Tilling",
-    "nameKey": "midnight tilling",
-    "eurPrice": 0.07
   },
   {
     "name": "Midsummer Revel",
@@ -83015,11 +82225,6 @@
     "eurPrice": 0.22
   },
   {
-    "name": "Mirrorform",
-    "nameKey": "mirrorform",
-    "eurPrice": 2.76
-  },
-  {
     "name": "Mirrorhall Mimic // Ghastly Mimicry",
     "nameKey": "mirrorhall mimic // ghastly mimicry",
     "eurPrice": 0.76
@@ -83033,11 +82238,6 @@
     "name": "Mirrormere Guardian",
     "nameKey": "mirrormere guardian",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Mirrormind Crown",
-    "nameKey": "mirrormind crown",
-    "eurPrice": 0.02
   },
   {
     "name": "Mirrorpool",
@@ -83113,11 +82313,6 @@
     "name": "Mischievous Quanar",
     "nameKey": "mischievous quanar",
     "eurPrice": 0.55
-  },
-  {
-    "name": "Mischievous Sneakling",
-    "nameKey": "mischievous sneakling",
-    "eurPrice": 0.05
   },
   {
     "name": "Misdirection",
@@ -83458,11 +82653,6 @@
     "name": "Misthoof Kirin",
     "nameKey": "misthoof kirin",
     "eurPrice": 0.02
-  },
-  {
-    "name": "Mistmeadow Council",
-    "nameKey": "mistmeadow council",
-    "eurPrice": 0.05
   },
   {
     "name": "Mistmeadow Skulk",
@@ -84505,11 +83695,6 @@
     "eurPrice": 0.11
   },
   {
-    "name": "Moon-Vigil Adherents",
-    "nameKey": "moon-vigil adherents",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Moonblade Shinobi",
     "nameKey": "moonblade shinobi",
     "eurPrice": 0.11
@@ -84533,11 +83718,6 @@
     "name": "Moonglove Extract",
     "nameKey": "moonglove extract",
     "eurPrice": 0.02
-  },
-  {
-    "name": "Moonglove Extractor",
-    "nameKey": "moonglove extractor",
-    "eurPrice": 0.03
   },
   {
     "name": "Moonglove Winnower",
@@ -84568,11 +83748,6 @@
     "name": "Moonlight Hunt",
     "nameKey": "moonlight hunt",
     "eurPrice": 0.1
-  },
-  {
-    "name": "Moonlit Lamenter",
-    "nameKey": "moonlit lamenter",
-    "eurPrice": 0.02
   },
   {
     "name": "Moonlit Meditation",
@@ -84618,11 +83793,6 @@
     "name": "Moonrise Cleric",
     "nameKey": "moonrise cleric",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Moonshadow",
-    "nameKey": "moonshadow",
-    "eurPrice": 13.85
   },
   {
     "name": "Moonshae Pixie // Pixie Dust",
@@ -84760,16 +83930,6 @@
     "eurPrice": 0.08
   },
   {
-    "name": "Morcant's Eyes",
-    "nameKey": "morcant's eyes",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Morcant's Loyalist",
-    "nameKey": "morcant's loyalist",
-    "eurPrice": 0.16
-  },
-  {
     "name": "Mordant Dragon",
     "nameKey": "mordant dragon",
     "eurPrice": 0.25
@@ -84888,16 +84048,6 @@
     "name": "Morningtide",
     "nameKey": "morningtide",
     "eurPrice": 0.32
-  },
-  {
-    "name": "Morningtide's Light",
-    "nameKey": "morningtide's light",
-    "eurPrice": 1.7
-  },
-  {
-    "name": "Mornsong Aria",
-    "nameKey": "mornsong aria",
-    "eurPrice": 0.02
   },
   {
     "name": "Moroii",
@@ -85405,11 +84555,6 @@
     "eurPrice": 0.04
   },
   {
-    "name": "Mudbutton Cursetosser",
-    "nameKey": "mudbutton cursetosser",
-    "eurPrice": 0.09
-  },
-  {
     "name": "Mudbutton Torchrunner",
     "nameKey": "mudbutton torchrunner",
     "eurPrice": 0.04
@@ -85738,11 +84883,6 @@
     "name": "Muster the Departed",
     "nameKey": "muster the departed",
     "eurPrice": 0.18
-  },
-  {
-    "name": "Mutable Explorer",
-    "nameKey": "mutable explorer",
-    "eurPrice": 0.69
   },
   {
     "name": "Mutagen Connoisseur",
@@ -88315,11 +87455,6 @@
     "eurPrice": 0.27
   },
   {
-    "name": "Nightmare Sower",
-    "nameKey": "nightmare sower",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Nightmare Unmaking",
     "nameKey": "nightmare unmaking",
     "eurPrice": 0.16
@@ -89103,16 +88238,6 @@
     "name": "Noggle Ransacker",
     "nameKey": "noggle ransacker",
     "eurPrice": 0.1
-  },
-  {
-    "name": "Noggle Robber",
-    "nameKey": "noggle robber",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Noggle the Mind",
-    "nameKey": "noggle the mind",
-    "eurPrice": 0.09
   },
   {
     "name": "Nogi, Draco-Zealot",
@@ -90480,11 +89605,6 @@
     "eurPrice": 0.15
   },
   {
-    "name": "Oft-Nabbed Goat",
-    "nameKey": "oft-nabbed goat",
-    "eurPrice": 0.12
-  },
-  {
     "name": "Oggyar Battle-Seer",
     "nameKey": "oggyar battle-seer",
     "eurPrice": 0.03
@@ -90768,11 +89888,6 @@
     "name": "Okk",
     "nameKey": "okk",
     "eurPrice": 0.2
-  },
-  {
-    "name": "Oko, Lorwyn Liege // Oko, Shadowmoor Scion",
-    "nameKey": "oko, lorwyn liege // oko, shadowmoor scion",
-    "eurPrice": 0.12
   },
   {
     "name": "Oko, the Ringleader",
@@ -91068,11 +90183,6 @@
     "name": "Omnath, Locus of the Roil",
     "nameKey": "omnath, locus of the roil",
     "eurPrice": 5.58
-  },
-  {
-    "name": "Omni-Changeling",
-    "nameKey": "omni-changeling",
-    "eurPrice": 0.05
   },
   {
     "name": "Omnibian",
@@ -94470,11 +93580,6 @@
     "eurPrice": 0.27
   },
   {
-    "name": "Perfect Intimidation",
-    "nameKey": "perfect intimidation",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Perforating Artist",
     "nameKey": "perforating artist",
     "eurPrice": 0.12
@@ -94660,11 +93765,6 @@
     "eurPrice": 5.21
   },
   {
-    "name": "Personify",
-    "nameKey": "personify",
-    "eurPrice": 0.15
-  },
-  {
     "name": "Persuasion",
     "nameKey": "persuasion",
     "eurPrice": 0.36
@@ -94688,11 +93788,6 @@
     "name": "Pest Summoning",
     "nameKey": "pest summoning",
     "eurPrice": 0.14
-  },
-  {
-    "name": "Pestered Wellguard",
-    "nameKey": "pestered wellguard",
-    "eurPrice": 0.07
   },
   {
     "name": "Pestermite",
@@ -96133,11 +95228,6 @@
     "name": "Pitiless Carnage",
     "nameKey": "pitiless carnage",
     "eurPrice": 0.24
-  },
-  {
-    "name": "Pitiless Fists",
-    "nameKey": "pitiless fists",
-    "eurPrice": 0.02
   },
   {
     "name": "Pitiless Gorgon",
@@ -97750,11 +96840,6 @@
     "eurPrice": 2.05
   },
   {
-    "name": "Prideful Feastling",
-    "nameKey": "prideful feastling",
-    "eurPrice": 0.06
-  },
-  {
     "name": "Prideful Parent",
     "nameKey": "prideful parent",
     "eurPrice": 0.07
@@ -98115,11 +97200,6 @@
     "eurPrice": 0.27
   },
   {
-    "name": "Prismabasher",
-    "nameKey": "prismabasher",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Prismari Apprentice",
     "nameKey": "prismari apprentice",
     "eurPrice": 0.06
@@ -98178,11 +97258,6 @@
     "name": "Prismatic Strands",
     "nameKey": "prismatic strands",
     "eurPrice": 3.89
-  },
-  {
-    "name": "Prismatic Undercurrents",
-    "nameKey": "prismatic undercurrents",
-    "eurPrice": 0.1
   },
   {
     "name": "Prismatic Vista",
@@ -98705,11 +97780,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Protective Response",
-    "nameKey": "protective response",
-    "eurPrice": 0.05
-  },
-  {
     "name": "Protective Sphere",
     "nameKey": "protective sphere",
     "eurPrice": 0.29
@@ -99120,16 +98190,6 @@
     "eurPrice": 0.16
   },
   {
-    "name": "Puca's Covenant",
-    "nameKey": "puca's covenant",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Puca's Eye",
-    "nameKey": "puca's eye",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Puca's Mischief",
     "nameKey": "puca's mischief",
     "eurPrice": 1.02
@@ -99243,11 +98303,6 @@
     "name": "Pulverize",
     "nameKey": "pulverize",
     "eurPrice": 1.13
-  },
-  {
-    "name": "Pummeler for Hire",
-    "nameKey": "pummeler for hire",
-    "eurPrice": 0.06
   },
   {
     "name": "Pumpkin Bombardment",
@@ -99788,11 +98843,6 @@
     "name": "Pyrrhic Revival",
     "nameKey": "pyrrhic revival",
     "eurPrice": 0.47
-  },
-  {
-    "name": "Pyrrhic Strike",
-    "nameKey": "pyrrhic strike",
-    "eurPrice": 0.02
   },
   {
     "name": "Python",
@@ -100935,11 +99985,6 @@
     "eurPrice": 0.29
   },
   {
-    "name": "Raiding Schemes",
-    "nameKey": "raiding schemes",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Railway Brawler",
     "nameKey": "railway brawler",
     "eurPrice": 6.47
@@ -100998,11 +100043,6 @@
     "name": "Rain of Thorns",
     "nameKey": "rain of thorns",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Rain-Slicked Copse",
-    "nameKey": "rain-slicked copse",
-    "eurPrice": 0.65
   },
   {
     "name": "Rainbow Crow",
@@ -102775,11 +101815,6 @@
     "eurPrice": 0.06
   },
   {
-    "name": "Reaping Willow",
-    "nameKey": "reaping willow",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Reason // Believe",
     "nameKey": "reason // believe",
     "eurPrice": 0.11
@@ -103033,11 +102068,6 @@
     "name": "Reckless Rage",
     "nameKey": "reckless rage",
     "eurPrice": 1.2
-  },
-  {
-    "name": "Reckless Ransacking",
-    "nameKey": "reckless ransacking",
-    "eurPrice": 0.06
   },
   {
     "name": "Reckless Reveler",
@@ -103995,11 +103025,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Reluctant Dounguard",
-    "nameKey": "reluctant dounguard",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Reluctant Role Model",
     "nameKey": "reluctant role model",
     "eurPrice": 0.22
@@ -104440,11 +103465,6 @@
     "eurPrice": 0.52
   },
   {
-    "name": "Requiting Hex",
-    "nameKey": "requiting hex",
-    "eurPrice": 0.71
-  },
-  {
     "name": "Reroute",
     "nameKey": "reroute",
     "eurPrice": 0.05
@@ -104883,11 +103903,6 @@
     "name": "Retaliator Griffin",
     "nameKey": "retaliator griffin",
     "eurPrice": 0.45
-  },
-  {
-    "name": "Retched Wretch",
-    "nameKey": "retched wretch",
-    "eurPrice": 0.02
   },
   {
     "name": "Retether",
@@ -105510,11 +104525,6 @@
     "eurPrice": 1.55
   },
   {
-    "name": "Rhys, the Evermore",
-    "nameKey": "rhys, the evermore",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Rhystic Cave",
     "nameKey": "rhystic cave",
     "eurPrice": 0.27
@@ -105870,11 +104880,6 @@
     "eurPrice": 0.15
   },
   {
-    "name": "Rime Chill",
-    "nameKey": "rime chill",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Rime Dryad",
     "nameKey": "rime dryad",
     "eurPrice": 0.09
@@ -105900,11 +104905,6 @@
     "eurPrice": 0.69
   },
   {
-    "name": "Rimefire Torque",
-    "nameKey": "rimefire torque",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Rimefur Reindeer",
     "nameKey": "rimefur reindeer",
     "eurPrice": 0.06
@@ -105913,11 +104913,6 @@
     "name": "Rimehorn Aurochs",
     "nameKey": "rimehorn aurochs",
     "eurPrice": 0.14
-  },
-  {
-    "name": "Rimekin Recluse",
-    "nameKey": "rimekin recluse",
-    "eurPrice": 0.04
   },
   {
     "name": "Rimescale Dragon",
@@ -106710,11 +105705,6 @@
     "eurPrice": 5.2
   },
   {
-    "name": "Riverguard's Reflexes",
-    "nameKey": "riverguard's reflexes",
-    "eurPrice": 0.03
-  },
-  {
     "name": "Riverpyre Verge",
     "nameKey": "riverpyre verge",
     "eurPrice": 14.19
@@ -107378,11 +106368,6 @@
     "name": "Rooftop Nuisance",
     "nameKey": "rooftop nuisance",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Rooftop Percher",
-    "nameKey": "rooftop percher",
-    "eurPrice": 0.04
   },
   {
     "name": "Rooftop Storm",
@@ -109140,11 +108125,6 @@
     "eurPrice": 0.06
   },
   {
-    "name": "Safewright Cavalry",
-    "nameKey": "safewright cavalry",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Safewright Quest",
     "nameKey": "safewright quest",
     "eurPrice": 0.16
@@ -109735,11 +108715,6 @@
     "eurPrice": 0.12
   },
   {
-    "name": "Sanar, Innovative First-Year",
-    "nameKey": "sanar, innovative first-year",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Sanctified Charge",
     "nameKey": "sanctified charge",
     "eurPrice": 0.05
@@ -110198,11 +109173,6 @@
     "name": "Sap Sucker",
     "nameKey": "sap sucker",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Sapling Nursery",
-    "nameKey": "sapling nursery",
-    "eurPrice": 0.02
   },
   {
     "name": "Sapling of Colfenor",
@@ -111093,16 +110063,6 @@
     "name": "Scarblade Elite",
     "nameKey": "scarblade elite",
     "eurPrice": 1.92
-  },
-  {
-    "name": "Scarblade Scout",
-    "nameKey": "scarblade scout",
-    "eurPrice": 0.05
-  },
-  {
-    "name": "Scarblade's Malice",
-    "nameKey": "scarblade's malice",
-    "eurPrice": 0.03
   },
   {
     "name": "Scare Tactics",
@@ -112245,11 +111205,6 @@
     "eurPrice": 0.08
   },
   {
-    "name": "Scuzzback Scrounger",
-    "nameKey": "scuzzback scrounger",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Scythe Leopard",
     "nameKey": "scythe leopard",
     "eurPrice": 0.08
@@ -112518,11 +111473,6 @@
     "name": "Séance Board",
     "nameKey": "séance board",
     "eurPrice": 1.44
-  },
-  {
-    "name": "Sear",
-    "nameKey": "sear",
-    "eurPrice": 0.17
   },
   {
     "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
@@ -113498,11 +112448,6 @@
     "name": "Selfless Police Captain",
     "nameKey": "selfless police captain",
     "eurPrice": 0.06
-  },
-  {
-    "name": "Selfless Safewright",
-    "nameKey": "selfless safewright",
-    "eurPrice": 0.02
   },
   {
     "name": "Selfless Samurai",
@@ -114573,11 +113518,6 @@
     "name": "Shadow the Hedgehog",
     "nameKey": "shadow the hedgehog",
     "eurPrice": 3.99
-  },
-  {
-    "name": "Shadow Urchin",
-    "nameKey": "shadow urchin",
-    "eurPrice": 0.02
   },
   {
     "name": "Shadow-Rite Priest",
@@ -115665,11 +114605,6 @@
     "eurPrice": 0.11
   },
   {
-    "name": "Shimmercreep",
-    "nameKey": "shimmercreep",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Shimmerdrift Vale",
     "nameKey": "shimmerdrift vale",
     "eurPrice": 0.14
@@ -115707,11 +114642,6 @@
   {
     "name": "Shimmerscale Drake",
     "nameKey": "shimmerscale drake",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Shimmerwilds Growth",
-    "nameKey": "shimmerwilds growth",
     "eurPrice": 0.02
   },
   {
@@ -115753,11 +114683,6 @@
     "name": "Shineshadow Snarl",
     "nameKey": "shineshadow snarl",
     "eurPrice": 0.22
-  },
-  {
-    "name": "Shinestriker",
-    "nameKey": "shinestriker",
-    "eurPrice": 0.02
   },
   {
     "name": "Shinewend",
@@ -116028,11 +114953,6 @@
     "name": "Shore Keeper",
     "nameKey": "shore keeper",
     "eurPrice": 0.05
-  },
-  {
-    "name": "Shore Lurker",
-    "nameKey": "shore lurker",
-    "eurPrice": 0.04
   },
   {
     "name": "Shore Snapper",
@@ -117300,16 +116220,6 @@
     "eurPrice": 0.12
   },
   {
-    "name": "Silvergill Mentor",
-    "nameKey": "silvergill mentor",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Silvergill Peddler",
-    "nameKey": "silvergill peddler",
-    "eurPrice": 0.08
-  },
-  {
     "name": "Silverglade Elemental",
     "nameKey": "silverglade elemental",
     "eurPrice": 0.11
@@ -117590,11 +116500,6 @@
     "eurPrice": 0.07
   },
   {
-    "name": "Sinister Gnarlbark",
-    "nameKey": "sinister gnarlbark",
-    "eurPrice": 1.39
-  },
-  {
     "name": "Sinister Hideout",
     "nameKey": "sinister hideout",
     "eurPrice": 0.02
@@ -117863,11 +116768,6 @@
     "name": "Sizzling Barrage",
     "nameKey": "sizzling barrage",
     "eurPrice": 0.04
-  },
-  {
-    "name": "Sizzling Changeling",
-    "nameKey": "sizzling changeling",
-    "eurPrice": 0.07
   },
   {
     "name": "Sizzling Soloist",
@@ -119650,11 +118550,6 @@
     "eurPrice": 0.32
   },
   {
-    "name": "Slumbering Walker",
-    "nameKey": "slumbering walker",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Slurrk, All-Ingesting",
     "nameKey": "slurrk, all-ingesting",
     "eurPrice": 0.07
@@ -120248,11 +119143,6 @@
     "name": "Social Climber",
     "nameKey": "social climber",
     "eurPrice": 0.15
-  },
-  {
-    "name": "Sodden Verdure",
-    "nameKey": "sodden verdure",
-    "eurPrice": 1.17
   },
   {
     "name": "Soilshaper",
@@ -121100,11 +119990,6 @@
     "eurPrice": 0.23
   },
   {
-    "name": "Soul Immolation",
-    "nameKey": "soul immolation",
-    "eurPrice": 0.82
-  },
-  {
     "name": "Soul Kiss",
     "nameKey": "soul kiss",
     "eurPrice": 0.16
@@ -121410,11 +120295,6 @@
     "eurPrice": 0.06
   },
   {
-    "name": "Soulbright Seeker",
-    "nameKey": "soulbright seeker",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Soulcage Fiend",
     "nameKey": "soulcage fiend",
     "eurPrice": 0.08
@@ -121563,11 +120443,6 @@
     "name": "Soundwave, Sonic Spy // Soundwave, Superior Captain",
     "nameKey": "soundwave, sonic spy // soundwave, superior captain",
     "eurPrice": 0.33
-  },
-  {
-    "name": "Sourbread Auntie",
-    "nameKey": "sourbread auntie",
-    "eurPrice": 0.05
   },
   {
     "name": "Soured Springs",
@@ -122985,11 +121860,6 @@
     "eurPrice": 0.44
   },
   {
-    "name": "Spinerock Tyrant",
-    "nameKey": "spinerock tyrant",
-    "eurPrice": 0.57
-  },
-  {
     "name": "Spineseeker Centipede",
     "nameKey": "spineseeker centipede",
     "eurPrice": 0.03
@@ -123048,11 +121918,6 @@
     "name": "Spiny Starfish",
     "nameKey": "spiny starfish",
     "eurPrice": 0.19
-  },
-  {
-    "name": "Spiral into Solitude",
-    "nameKey": "spiral into solitude",
-    "eurPrice": 0.05
   },
   {
     "name": "Spiraling Duelist",
@@ -123830,11 +122695,6 @@
     "eurPrice": 0.57
   },
   {
-    "name": "Springleaf Parade",
-    "nameKey": "springleaf parade",
-    "eurPrice": 5.01
-  },
-  {
     "name": "Springmane Cervin",
     "nameKey": "springmane cervin",
     "eurPrice": 0.05
@@ -123903,11 +122763,6 @@
     "name": "Sprouting Vines",
     "nameKey": "sprouting vines",
     "eurPrice": 0.12
-  },
-  {
-    "name": "Spry and Mighty",
-    "nameKey": "spry and mighty",
-    "eurPrice": 0.02
   },
   {
     "name": "Spur Grappler",
@@ -124008,11 +122863,6 @@
     "name": "Squash",
     "nameKey": "squash",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Squawkroaster",
-    "nameKey": "squawkroaster",
-    "eurPrice": 0.04
   },
   {
     "name": "Squeaking Pie Grubfellows",
@@ -124273,11 +123123,6 @@
     "name": "Stain the Mind",
     "nameKey": "stain the mind",
     "eurPrice": 0.23
-  },
-  {
-    "name": "Stalactite Dagger",
-    "nameKey": "stalactite dagger",
-    "eurPrice": 0.08
   },
   {
     "name": "Stalactite Stalker",
@@ -125350,11 +124195,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Sting-Slinger",
-    "nameKey": "sting-slinger",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Sting, the Glinting Dagger",
     "nameKey": "sting, the glinting dagger",
     "eurPrice": 1.27
@@ -125563,11 +124403,6 @@
     "name": "Stoic Farmer",
     "nameKey": "stoic farmer",
     "eurPrice": 0.27
-  },
-  {
-    "name": "Stoic Grove-Guide",
-    "nameKey": "stoic grove-guide",
-    "eurPrice": 0.03
   },
   {
     "name": "Stoic Rebuttal",
@@ -126390,11 +125225,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Stratosoarer",
-    "nameKey": "stratosoarer",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Stratozeppelid",
     "nameKey": "stratozeppelid",
     "eurPrice": 0.05
@@ -127020,11 +125850,6 @@
     "eurPrice": 0.08
   },
   {
-    "name": "Subterfuge",
-    "nameKey": "subterfuge",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Subterranean Hangar",
     "nameKey": "subterranean hangar",
     "eurPrice": 0.28
@@ -127380,11 +126205,6 @@
     "eurPrice": 0.02
   },
   {
-    "name": "Summit Sentinel",
-    "nameKey": "summit sentinel",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Summon the School",
     "nameKey": "summon the school",
     "eurPrice": 0.16
@@ -127625,11 +126445,6 @@
     "eurPrice": 0.11
   },
   {
-    "name": "Sun-Dappled Celebrant",
-    "nameKey": "sun-dappled celebrant",
-    "eurPrice": 0.03
-  },
-  {
     "name": "Sun-Spider, Nimble Webber",
     "nameKey": "sun-spider, nimble webber",
     "eurPrice": 0.11
@@ -127733,11 +126548,6 @@
     "name": "Sunder the Gateway",
     "nameKey": "sunder the gateway",
     "eurPrice": 0.12
-  },
-  {
-    "name": "Sunderflock",
-    "nameKey": "sunderflock",
-    "eurPrice": 0.02
   },
   {
     "name": "Sundering Eruption // Volcanic Fissure",
@@ -128360,11 +127170,6 @@
     "eurPrice": 10.18
   },
   {
-    "name": "Surly Farrier",
-    "nameKey": "surly farrier",
-    "eurPrice": 0.03
-  },
-  {
     "name": "Surprise Deployment",
     "nameKey": "surprise deployment",
     "eurPrice": 0.23
@@ -128760,11 +127565,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Swat Away",
-    "nameKey": "swat away",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Swathcutter Giant",
     "nameKey": "swathcutter giant",
     "eurPrice": 0.02
@@ -129143,16 +127943,6 @@
     "name": "Sygg, River Guide",
     "nameKey": "sygg, river guide",
     "eurPrice": 0.37
-  },
-  {
-    "name": "Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",
-    "nameKey": "sygg, wanderwine wisdom // sygg, wanderbrine shield",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Sygg's Command",
-    "nameKey": "sygg's command",
-    "eurPrice": 0.02
   },
   {
     "name": "Sylvan Advocate",
@@ -130145,11 +128935,6 @@
     "eurPrice": 0.63
   },
   {
-    "name": "Tam, Mindful First-Year",
-    "nameKey": "tam, mindful first-year",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Tamanoa",
     "nameKey": "tamanoa",
     "eurPrice": 0.27
@@ -130380,11 +129165,6 @@
     "eurPrice": 2.45
   },
   {
-    "name": "Tanufel Rimespeaker",
-    "nameKey": "tanufel rimespeaker",
-    "eurPrice": 0.04
-  },
-  {
     "name": "Tanuki Transplanter",
     "nameKey": "tanuki transplanter",
     "eurPrice": 0.36
@@ -130568,11 +129348,6 @@
     "name": "Taste of Paradise",
     "nameKey": "taste of paradise",
     "eurPrice": 0.09
-  },
-  {
-    "name": "Taster of Wares",
-    "nameKey": "taster of wares",
-    "eurPrice": 0.02
   },
   {
     "name": "Tataru Taru",
@@ -131648,11 +130423,6 @@
     "name": "Tend the Pests",
     "nameKey": "tend the pests",
     "eurPrice": 0.29
-  },
-  {
-    "name": "Tend the Sprigs",
-    "nameKey": "tend the sprigs",
-    "eurPrice": 0.02
   },
   {
     "name": "Tender Wildguide",
@@ -133025,11 +131795,6 @@
     "eurPrice": 11.54
   },
   {
-    "name": "The Ghoul, Gunslinger",
-    "nameKey": "the ghoul, gunslinger",
-    "eurPrice": null
-  },
-  {
     "name": "The Girl in the Fireplace",
     "nameKey": "the girl in the fireplace",
     "eurPrice": 0.3
@@ -133463,11 +132228,6 @@
     "name": "The Reality Chip",
     "nameKey": "the reality chip",
     "eurPrice": 1.55
-  },
-  {
-    "name": "The Reaper, King No More",
-    "nameKey": "the reaper, king no more",
-    "eurPrice": 0.02
   },
   {
     "name": "The Reaver Cleaver",
@@ -134105,11 +132865,6 @@
     "eurPrice": 0.23
   },
   {
-    "name": "Thirst for Identity",
-    "nameKey": "thirst for identity",
-    "eurPrice": 0.06
-  },
-  {
     "name": "Thirst for Knowledge",
     "nameKey": "thirst for knowledge",
     "eurPrice": 0.07
@@ -134530,24 +133285,9 @@
     "eurPrice": 7.4
   },
   {
-    "name": "Thoughtweft Charge",
-    "nameKey": "thoughtweft charge",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Thoughtweft Gambit",
     "nameKey": "thoughtweft gambit",
     "eurPrice": 0.14
-  },
-  {
-    "name": "Thoughtweft Imbuer",
-    "nameKey": "thoughtweft imbuer",
-    "eurPrice": 0.06
-  },
-  {
-    "name": "Thoughtweft Lieutenant",
-    "nameKey": "thoughtweft lieutenant",
-    "eurPrice": 0.09
   },
   {
     "name": "Thoughtweft Trio",
@@ -136023,11 +134763,6 @@
     "name": "Timid Drake",
     "nameKey": "timid drake",
     "eurPrice": 0.16
-  },
-  {
-    "name": "Timid Shieldbearer",
-    "nameKey": "timid shieldbearer",
-    "eurPrice": 0.03
   },
   {
     "name": "Timin, Youthful Geist",
@@ -138375,11 +137110,6 @@
     "eurPrice": 0.33
   },
   {
-    "name": "Tributary Vaulter",
-    "nameKey": "tributary vaulter",
-    "eurPrice": 0.1
-  },
-  {
     "name": "Tribute Mage",
     "nameKey": "tribute mage",
     "eurPrice": 0.98
@@ -138920,16 +137650,6 @@
     "eurPrice": 0.6
   },
   {
-    "name": "Trystan, Callous Cultivator // Trystan, Penitent Culler",
-    "nameKey": "trystan, callous cultivator // trystan, penitent culler",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Trystan's Command",
-    "nameKey": "trystan's command",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Tsabo Tavoc",
     "nameKey": "tsabo tavoc",
     "eurPrice": 0.39
@@ -139265,11 +137985,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Tweeze",
-    "nameKey": "tweeze",
-    "eurPrice": 0.03
-  },
-  {
     "name": "Twenty-Toed Toad",
     "nameKey": "twenty-toed toad",
     "eurPrice": 3.12
@@ -139293,11 +138008,6 @@
     "name": "Twigwalker",
     "nameKey": "twigwalker",
     "eurPrice": 0.15
-  },
-  {
-    "name": "Twilight Diviner",
-    "nameKey": "twilight diviner",
-    "eurPrice": 0.02
   },
   {
     "name": "Twilight Drover",
@@ -139383,11 +138093,6 @@
     "name": "Twinflame",
     "nameKey": "twinflame",
     "eurPrice": 5.16
-  },
-  {
-    "name": "Twinflame Travelers",
-    "nameKey": "twinflame travelers",
-    "eurPrice": 0.04
   },
   {
     "name": "Twinflame Tyrant",
@@ -140175,11 +138880,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Unbury",
-    "nameKey": "unbury",
-    "eurPrice": 0.06
-  },
-  {
     "name": "Uncage the Menagerie",
     "nameKey": "uncage the menagerie",
     "eurPrice": 0.82
@@ -140640,11 +139340,6 @@
     "eurPrice": 0.96
   },
   {
-    "name": "Unexpected Assistance",
-    "nameKey": "unexpected assistance",
-    "eurPrice": 0.08
-  },
-  {
     "name": "Unexpected Fangs",
     "nameKey": "unexpected fangs",
     "eurPrice": 0.48
@@ -140707,11 +139402,6 @@
   {
     "name": "Unforge",
     "nameKey": "unforge",
-    "eurPrice": 0.03
-  },
-  {
-    "name": "Unforgiving Aim",
-    "nameKey": "unforgiving aim",
     "eurPrice": 0.03
   },
   {
@@ -141272,11 +139962,6 @@
   {
     "name": "Unwavering Initiate",
     "nameKey": "unwavering initiate",
-    "eurPrice": 0.02
-  },
-  {
-    "name": "Unwelcome Sprite",
-    "nameKey": "unwelcome sprite",
     "eurPrice": 0.02
   },
   {
@@ -143860,11 +142545,6 @@
     "eurPrice": 1.05
   },
   {
-    "name": "Vibrance",
-    "nameKey": "vibrance",
-    "eurPrice": 6.28
-  },
-  {
     "name": "Vibrant Cityscape",
     "nameKey": "vibrant cityscape",
     "eurPrice": 0.11
@@ -144140,11 +142820,6 @@
     "eurPrice": 0.05
   },
   {
-    "name": "Village Pillagers",
-    "nameKey": "village pillagers",
-    "eurPrice": 1.81
-  },
-  {
     "name": "Village Rites",
     "nameKey": "village rites",
     "eurPrice": 0.2
@@ -144253,11 +142928,6 @@
     "name": "Vine Trellis",
     "nameKey": "vine trellis",
     "eurPrice": 0.22
-  },
-  {
-    "name": "Vinebred Brawler",
-    "nameKey": "vinebred brawler",
-    "eurPrice": 0.05
   },
   {
     "name": "Vineglimmer Snarl",
@@ -144473,11 +143143,6 @@
     "name": "Virtus's Maneuver",
     "nameKey": "virtus's maneuver",
     "eurPrice": 1.19
-  },
-  {
-    "name": "Virulent Emissary",
-    "nameKey": "virulent emissary",
-    "eurPrice": 0.32
   },
   {
     "name": "Virulent Plague",
@@ -145555,11 +144220,6 @@
     "eurPrice": 0.07
   },
   {
-    "name": "Voracious Tome-Skimmer",
-    "nameKey": "voracious tome-skimmer",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Voracious Typhon",
     "nameKey": "voracious typhon",
     "eurPrice": 0.05
@@ -146505,19 +145165,9 @@
     "eurPrice": 0.15
   },
   {
-    "name": "Wanderbrine Preacher",
-    "nameKey": "wanderbrine preacher",
-    "eurPrice": 0.07
-  },
-  {
     "name": "Wanderbrine Rootcutters",
     "nameKey": "wanderbrine rootcutters",
     "eurPrice": 0.02
-  },
-  {
-    "name": "Wanderbrine Trapper",
-    "nameKey": "wanderbrine trapper",
-    "eurPrice": 0.11
   },
   {
     "name": "Wanderer's Intervention",
@@ -146628,16 +145278,6 @@
     "name": "Wandertale Mentor",
     "nameKey": "wandertale mentor",
     "eurPrice": 0.18
-  },
-  {
-    "name": "Wanderwine Distracter",
-    "nameKey": "wanderwine distracter",
-    "eurPrice": 0.08
-  },
-  {
-    "name": "Wanderwine Farewell",
-    "nameKey": "wanderwine farewell",
-    "eurPrice": 0.12
   },
   {
     "name": "Wanderwine Hub",
@@ -147130,11 +145770,6 @@
     "eurPrice": 11.63
   },
   {
-    "name": "Warren Torchmaster",
-    "nameKey": "warren torchmaster",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Warren Warleader",
     "nameKey": "warren warleader",
     "eurPrice": 2.99
@@ -147218,11 +145853,6 @@
     "name": "Wartime Protestors",
     "nameKey": "wartime protestors",
     "eurPrice": 0.13
-  },
-  {
-    "name": "Wary Farmer",
-    "nameKey": "wary farmer",
-    "eurPrice": 0.06
   },
   {
     "name": "Wary Okapi",
@@ -148795,11 +147425,6 @@
     "eurPrice": 0.2
   },
   {
-    "name": "Wickersmith's Tools",
-    "nameKey": "wickersmith's tools",
-    "eurPrice": 0.15
-  },
-  {
     "name": "Widespread Brutality",
     "nameKey": "widespread brutality",
     "eurPrice": 0.31
@@ -149020,11 +147645,6 @@
     "eurPrice": 0.19
   },
   {
-    "name": "Wild Unraveling",
-    "nameKey": "wild unraveling",
-    "eurPrice": 0.06
-  },
-  {
     "name": "Wild Wanderer",
     "nameKey": "wild wanderer",
     "eurPrice": 0.08
@@ -149153,11 +147773,6 @@
     "name": "Wildslayer Elves",
     "nameKey": "wildslayer elves",
     "eurPrice": 0.12
-  },
-  {
-    "name": "Wildvine Pummeler",
-    "nameKey": "wildvine pummeler",
-    "eurPrice": 0.02
   },
   {
     "name": "Wildwood Escort",
@@ -149725,11 +148340,6 @@
     "eurPrice": 0.1
   },
   {
-    "name": "Winnowing",
-    "nameKey": "winnowing",
-    "eurPrice": 0.02
-  },
-  {
     "name": "Winota, Joiner of Forces",
     "nameKey": "winota, joiner of forces",
     "eurPrice": 1.66
@@ -149958,11 +148568,6 @@
     "name": "Wistful Thinking",
     "nameKey": "wistful thinking",
     "eurPrice": 0.15
-  },
-  {
-    "name": "Wistfulness",
-    "nameKey": "wistfulness",
-    "eurPrice": 21.71
   },
   {
     "name": "Wit's End",
