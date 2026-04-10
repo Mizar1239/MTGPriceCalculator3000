@@ -880,6 +880,11 @@
     "eurPrice": 0.12
   },
   {
+    "name": "Action News Crew",
+    "nameKey": "action news crew",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Activated Sleeper",
     "nameKey": "activated sleeper",
     "eurPrice": 0.91
@@ -1833,6 +1838,11 @@
     "name": "Agency Outfitter",
     "nameKey": "agency outfitter",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Agent Bishop, Man in Black",
+    "nameKey": "agent bishop, man in black",
+    "eurPrice": 0.20
   },
   {
     "name": "Agent Frank Horrigan",
@@ -3840,6 +3850,11 @@
     "eurPrice": 0.14
   },
   {
+    "name": "Anchovy & Banana Pizza",
+    "nameKey": "anchovy & banana pizza",
+    "eurPrice": 0.05
+  },
+  {
     "name": "Ancient Adamantoise",
     "nameKey": "ancient adamantoise",
     "eurPrice": 2.48
@@ -5045,6 +5060,31 @@
     "eurPrice": 2.16
   },
   {
+    "name": "April O'Neil, Hacktivist",
+    "nameKey": "april o'neil, hacktivist",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "April O'Neil, Human Element",
+    "nameKey": "april o'neil, human element",
+    "eurPrice": 7.75
+  },
+  {
+    "name": "April O'Neil, Kunoichi Trainee",
+    "nameKey": "april o'neil, kunoichi trainee",
+    "eurPrice": 0.04
+  },
+  {
+    "name": "April O'Neil, Live on the Scene",
+    "nameKey": "april o'neil, live on the scene",
+    "eurPrice": 0.21
+  },
+  {
+    "name": "April, Reporter of the Weird",
+    "nameKey": "april, reporter of the weird",
+    "eurPrice": 0.05
+  },
+  {
     "name": "Aquamoeba",
     "nameKey": "aquamoeba",
     "eurPrice": 0.14
@@ -5338,6 +5378,11 @@
     "name": "Arc-Slogger",
     "nameKey": "arc-slogger",
     "eurPrice": 0.19
+  },
+  {
+    "name": "Arcade Cabinet",
+    "nameKey": "arcade cabinet",
+    "eurPrice": 0.02
   },
   {
     "name": "Arcade Gannon",
@@ -6298,6 +6343,11 @@
     "name": "Armageddon Clock",
     "nameKey": "armageddon clock",
     "eurPrice": 0.34
+  },
+  {
+    "name": "Armaggon, Future Shark",
+    "nameKey": "armaggon, future shark",
+    "eurPrice": 0.02
   },
   {
     "name": "Armament Corps",
@@ -10630,6 +10680,16 @@
     "eurPrice": 3.52
   },
   {
+    "name": "Baxter Stockman",
+    "nameKey": "baxter stockman",
+    "eurPrice": 0.05
+  },
+  {
+    "name": "Baxter, Fly in the Ointment",
+    "nameKey": "baxter, fly in the ointment",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Bay Falcon",
     "nameKey": "bay falcon",
     "eurPrice": 0.23
@@ -10893,6 +10953,21 @@
     "name": "Beatrix, Loyal General",
     "nameKey": "beatrix, loyal general",
     "eurPrice": 1.27
+  },
+  {
+    "name": "Bebop & Rocksteady",
+    "nameKey": "bebop & rocksteady",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Bebop, Skull & Crossbones",
+    "nameKey": "bebop, skull & crossbones",
+    "eurPrice": 0.07
+  },
+  {
+    "name": "Bebop, Warthog Warrior",
+    "nameKey": "bebop, warthog warrior",
+    "eurPrice": 0.02
   },
   {
     "name": "Beck // Call",
@@ -11525,6 +11600,11 @@
     "eurPrice": 0.1
   },
   {
+    "name": "Bespoke Bō",
+    "nameKey": "bespoke bō",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Bess, Soul Nourisher",
     "nameKey": "bess, soul nourisher",
     "eurPrice": 0.28
@@ -11650,9 +11730,19 @@
     "eurPrice": 0.52
   },
   {
+    "name": "Big Apple, 3 a.m.",
+    "nameKey": "big apple, 3 a.m.",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Big Game Hunter",
     "nameKey": "big game hunter",
     "eurPrice": 0.17
+  },
+  {
+    "name": "Big Mother Mouser",
+    "nameKey": "big mother mouser",
+    "eurPrice": 0.02
   },
   {
     "name": "Big Play",
@@ -15260,6 +15350,11 @@
     "eurPrice": 0.19
   },
   {
+    "name": "Bot Bashing Time",
+    "nameKey": "bot bashing time",
+    "eurPrice": 0.03
+  },
+  {
     "name": "Botanical Brawler",
     "nameKey": "botanical brawler",
     "eurPrice": 0.13
@@ -16345,6 +16440,11 @@
     "eurPrice": 1.92
   },
   {
+    "name": "Brilliance Unleashed",
+    "nameKey": "brilliance unleashed",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Brilliant Halo",
     "nameKey": "brilliant halo",
     "eurPrice": 0.22
@@ -16593,6 +16693,11 @@
     "name": "Broadcast Rambler",
     "nameKey": "broadcast rambler",
     "eurPrice": 0.03
+  },
+  {
+    "name": "Broadcast Takeover",
+    "nameKey": "broadcast takeover",
+    "eurPrice": 0.89
   },
   {
     "name": "Broadside Barrage",
@@ -17628,6 +17733,11 @@
     "name": "Buy Your Silence",
     "nameKey": "buy your silence",
     "eurPrice": 0.05
+  },
+  {
+    "name": "Buzz Bots",
+    "nameKey": "buzz bots",
+    "eurPrice": 0.02
   },
   {
     "name": "Buzz Buggy",
@@ -19308,6 +19418,31 @@
     "name": "Case the Joint",
     "nameKey": "case the joint",
     "eurPrice": 0.02
+  },
+  {
+    "name": "Casey & Raph, Hotheads",
+    "nameKey": "casey & raph, hotheads",
+    "eurPrice": 0.39
+  },
+  {
+    "name": "Casey Jones, Asphalt Hooligan",
+    "nameKey": "casey jones, asphalt hooligan",
+    "eurPrice": 0.88
+  },
+  {
+    "name": "Casey Jones, Back Alley Brute",
+    "nameKey": "casey jones, back alley brute",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Casey Jones, Jury-Rig Justiciar",
+    "nameKey": "casey jones, jury-rig justiciar",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Casey Jones, Vigilante",
+    "nameKey": "casey jones, vigilante",
+    "eurPrice": 0.29
   },
   {
     "name": "Cass, Hand of Vengeance",
@@ -21920,6 +22055,11 @@
     "eurPrice": 0.04
   },
   {
+    "name": "Chrome Dome",
+    "nameKey": "chrome dome",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Chrome Host Seedshark",
     "nameKey": "chrome host seedshark",
     "eurPrice": 0.2
@@ -23685,6 +23825,11 @@
     "eurPrice": 0.19
   },
   {
+    "name": "Coin of Mastery",
+    "nameKey": "coin of mastery",
+    "eurPrice": 0.24
+  },
+  {
     "name": "Cold Case Cracker",
     "nameKey": "cold case cracker",
     "eurPrice": 0.03
@@ -25000,6 +25145,11 @@
     "eurPrice": 0.38
   },
   {
+    "name": "Containment Protocol",
+    "nameKey": "containment protocol",
+    "eurPrice": 0.29
+  },
+  {
     "name": "Contaminant Grafter",
     "nameKey": "contaminant grafter",
     "eurPrice": 8.12
@@ -25073,6 +25223,11 @@
     "name": "Contingency Plan",
     "nameKey": "contingency plan",
     "eurPrice": 0.09
+  },
+  {
+    "name": "Continue?",
+    "nameKey": "continue?",
+    "eurPrice": 2.49
   },
   {
     "name": "Contortionist Otter Storm",
@@ -25208,6 +25363,11 @@
     "name": "Convulsing Licid",
     "nameKey": "convulsing licid",
     "eurPrice": 0.15
+  },
+  {
+    "name": "Cool but Rude",
+    "nameKey": "cool but rude",
+    "eurPrice": 10.78
   },
   {
     "name": "Cool Fluffy Loxodon",
@@ -25930,6 +26090,11 @@
     "eurPrice": 0.08
   },
   {
+    "name": "Courier of Comestibles",
+    "nameKey": "courier of comestibles",
+    "eurPrice": 0.03
+  },
+  {
     "name": "Courier's Briefcase",
     "nameKey": "courier's briefcase",
     "eurPrice": 0.08
@@ -26103,6 +26268,11 @@
     "name": "Covetous Urge",
     "nameKey": "covetous urge",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Cowabunga!",
+    "nameKey": "cowabunga!",
+    "eurPrice": 0.05
   },
   {
     "name": "Coward // Killer",
@@ -27253,6 +27423,11 @@
     "name": "Crushing Vines",
     "nameKey": "crushing vines",
     "eurPrice": 0.02
+  },
+  {
+    "name": "Crustacean Commando",
+    "nameKey": "crustacean commando",
+    "eurPrice": 0.03
   },
   {
     "name": "Crux of Fate",
@@ -29060,6 +29235,11 @@
     "eurPrice": 0.07
   },
   {
+    "name": "Dark Leo & Shredder",
+    "nameKey": "dark leo & shredder",
+    "eurPrice": 3.34
+  },
+  {
     "name": "Dark Maze",
     "nameKey": "dark maze",
     "eurPrice": 0.04
@@ -30195,6 +30375,11 @@
     "eurPrice": 0.29
   },
   {
+    "name": "Death in the Family",
+    "nameKey": "death in the family",
+    "eurPrice": 0.22
+  },
+  {
     "name": "Death Kiss",
     "nameKey": "death kiss",
     "eurPrice": 4.31
@@ -31198,6 +31383,11 @@
     "name": "Defiling Tears",
     "nameKey": "defiling tears",
     "eurPrice": 0.14
+  },
+  {
+    "name": "Definitely Not a Turtle",
+    "nameKey": "definitely not a turtle",
+    "eurPrice": 0.25
   },
   {
     "name": "Deflecting Palm",
@@ -32780,9 +32970,24 @@
     "eurPrice": 0.27
   },
   {
+    "name": "Dimension X",
+    "nameKey": "dimension x",
+    "eurPrice": 0.04
+  },
+  {
+    "name": "Dimension X Pizzasaur",
+    "nameKey": "dimension x pizzasaur",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Dimensional Breach",
     "nameKey": "dimensional breach",
     "eurPrice": 0.36
+  },
+  {
+    "name": "Dimensional Exile",
+    "nameKey": "dimensional exile",
+    "eurPrice": 0.08
   },
   {
     "name": "Dimensional Infiltrator",
@@ -34055,6 +34260,11 @@
     "eurPrice": 0.22
   },
   {
+    "name": "Does Machines",
+    "nameKey": "does machines",
+    "eurPrice": 1.00
+  },
+  {
     "name": "Dog Umbra",
     "nameKey": "dog umbra",
     "eurPrice": 0.15
@@ -34200,6 +34410,16 @@
     "eurPrice": 0.13
   },
   {
+    "name": "Don & Leo, Problem Solvers",
+    "nameKey": "don & leo, problem solvers",
+    "eurPrice": 0.04
+  },
+  {
+    "name": "Don & Raph, Hard Science",
+    "nameKey": "don & raph, hard science",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Don Andres, the Renegade",
     "nameKey": "don andres, the renegade",
     "eurPrice": 0.39
@@ -34230,6 +34450,46 @@
     "eurPrice": 5.11
   },
   {
+    "name": "Donatello, Gadget Master",
+    "nameKey": "donatello, gadget master",
+    "eurPrice": 0.51
+  },
+  {
+    "name": "Donatello, Mutant Mechanic",
+    "nameKey": "donatello, mutant mechanic",
+    "eurPrice": 2.24
+  },
+  {
+    "name": "Donatello, Rad Scientist",
+    "nameKey": "donatello, rad scientist",
+    "eurPrice": 2.58
+  },
+  {
+    "name": "Donatello, the Brains",
+    "nameKey": "donatello, the brains",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Donatello, Turtle Techie",
+    "nameKey": "donatello, turtle techie",
+    "eurPrice": 0.03
+  },
+  {
+    "name": "Donatello, Way with Machines",
+    "nameKey": "donatello, way with machines",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Donatello's Science Lesson",
+    "nameKey": "donatello's science lesson",
+    "eurPrice": 0.24
+  },
+  {
+    "name": "Donatello's Technique",
+    "nameKey": "donatello's technique",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Done for the Day",
     "nameKey": "done for the day",
     "eurPrice": 0.08
@@ -34243,6 +34503,11 @@
     "name": "Donna Noble",
     "nameKey": "donna noble",
     "eurPrice": 0.27
+  },
+  {
+    "name": "Donnie & April, Adorkable Duo",
+    "nameKey": "donnie & april, adorkable duo",
+    "eurPrice": 0.98
   },
   {
     "name": "Doom Blade",
@@ -34433,6 +34698,11 @@
     "name": "Double Down",
     "nameKey": "double down",
     "eurPrice": 0.87
+  },
+  {
+    "name": "Double Jump // Flying Kick",
+    "nameKey": "double jump // flying kick",
+    "eurPrice": 0.02
   },
   {
     "name": "Double Major",
@@ -35558,6 +35828,11 @@
     "name": "Dreadwurm",
     "nameKey": "dreadwurm",
     "eurPrice": 0.05
+  },
+  {
+    "name": "Dream Beavers",
+    "nameKey": "dream beavers",
+    "eurPrice": 0.24
   },
   {
     "name": "Dream Cache",
@@ -37450,6 +37725,11 @@
     "eurPrice": 0.52
   },
   {
+    "name": "East Wind Avatar",
+    "nameKey": "east wind avatar",
+    "eurPrice": 0.02
+  },
+  {
     "name": "East-Mark Cavalier",
     "nameKey": "east-mark cavalier",
     "eurPrice": 0.05
@@ -38263,6 +38543,11 @@
     "name": "Electric Revelation",
     "nameKey": "electric revelation",
     "eurPrice": 0.1
+  },
+  {
+    "name": "Electric Seaweed",
+    "nameKey": "electric seaweed",
+    "eurPrice": 0.02
   },
   {
     "name": "Electrickery",
@@ -39795,6 +40080,11 @@
     "eurPrice": 2.06
   },
   {
+    "name": "Endless Foot Assault",
+    "nameKey": "endless foot assault",
+    "eurPrice": 0.26
+  },
+  {
     "name": "Endless Horizons",
     "nameKey": "endless horizons",
     "eurPrice": 3.23
@@ -40433,6 +40723,11 @@
     "name": "Éowyn, Shieldmaiden",
     "nameKey": "éowyn, shieldmaiden",
     "eurPrice": 0.39
+  },
+  {
+    "name": "EPF Point Squad",
+    "nameKey": "epf point squad",
+    "eurPrice": 0.06
   },
   {
     "name": "Ephara, God of the Polis",
@@ -41625,6 +41920,11 @@
     "eurPrice": 2.61
   },
   {
+    "name": "Everything Pizza",
+    "nameKey": "everything pizza",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Evidence Examiner",
     "nameKey": "evidence examiner",
     "eurPrice": 0.03
@@ -42153,6 +42453,11 @@
     "name": "Expert-Level Safe",
     "nameKey": "expert-level safe",
     "eurPrice": 0.09
+  },
+  {
+    "name": "Exploding Barrel",
+    "nameKey": "exploding barrel",
+    "eurPrice": 0.02
   },
   {
     "name": "Exploding Borders",
@@ -43685,6 +43990,11 @@
     "eurPrice": 0.07
   },
   {
+    "name": "Fast Forward",
+    "nameKey": "fast forward",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Fastbond",
     "nameKey": "fastbond",
     "eurPrice": 14.71
@@ -44183,6 +44493,11 @@
     "name": "Feather, the Redeemed",
     "nameKey": "feather, the redeemed",
     "eurPrice": 0.43
+  },
+  {
+    "name": "Featherbrained Filcher",
+    "nameKey": "featherbrained filcher",
+    "eurPrice": 0.02
   },
   {
     "name": "Fecund Greenshell",
@@ -47295,6 +47610,11 @@
     "eurPrice": 0.03
   },
   {
+    "name": "Foe-liage",
+    "nameKey": "foe-liage",
+    "eurPrice": 0.24
+  },
+  {
     "name": "Foe-Razer Regent",
     "nameKey": "foe-razer regent",
     "eurPrice": 0.27
@@ -47488,6 +47808,31 @@
     "name": "Fool's Tome",
     "nameKey": "fool's tome",
     "eurPrice": 0.22
+  },
+  {
+    "name": "Foot Chopper",
+    "nameKey": "foot chopper",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Foot Elite",
+    "nameKey": "foot elite",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Foot Headquarters",
+    "nameKey": "foot headquarters",
+    "eurPrice": 0.05
+  },
+  {
+    "name": "Foot Mystic",
+    "nameKey": "foot mystic",
+    "eurPrice": 0.03
+  },
+  {
+    "name": "Foot Ninjas",
+    "nameKey": "foot ninjas",
+    "eurPrice": 0.03
   },
   {
     "name": "Foot Soldiers",
@@ -48740,6 +49085,11 @@
     "eurPrice": 0.26
   },
   {
+    "name": "Frog Butler",
+    "nameKey": "frog butler",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Frog Tongue",
     "nameKey": "frog tongue",
     "eurPrice": 0.29
@@ -49063,6 +49413,11 @@
     "name": "Fugitive Codebreaker",
     "nameKey": "fugitive codebreaker",
     "eurPrice": 0.13
+  },
+  {
+    "name": "Fugitive Droid",
+    "nameKey": "fugitive droid",
+    "eurPrice": 0.02
   },
   {
     "name": "Fugitive Druid",
@@ -49920,6 +50275,11 @@
     "eurPrice": 4.29
   },
   {
+    "name": "Game Over",
+    "nameKey": "game over",
+    "eurPrice": 0.05
+  },
+  {
     "name": "Game Plan",
     "nameKey": "game plan",
     "eurPrice": 0.66
@@ -50720,6 +51080,11 @@
     "eurPrice": 0.79
   },
   {
+    "name": "General Traag, Heart of Stone",
+    "nameKey": "general traag, heart of stone",
+    "eurPrice": 0.04
+  },
+  {
     "name": "General's Enforcer",
     "nameKey": "general's enforcer",
     "eurPrice": 0.15
@@ -50823,6 +51188,11 @@
     "name": "Genetic Recombinator",
     "nameKey": "genetic recombinator",
     "eurPrice": 0.14
+  },
+  {
+    "name": "Genghis Frog",
+    "nameKey": "genghis frog",
+    "eurPrice": 0.07
   },
   {
     "name": "Genji Glove",
@@ -53373,6 +53743,11 @@
     "name": "Go Forth",
     "nameKey": "go forth",
     "eurPrice": 0.34
+  },
+  {
+    "name": "Go Ninja Go",
+    "nameKey": "go ninja go",
+    "eurPrice": 0.14
   },
   {
     "name": "Go-Shintai of Ancient Wars",
@@ -56685,9 +57060,19 @@
     "eurPrice": 0.35
   },
   {
+    "name": "Groundchuck & Dirtbag",
+    "nameKey": "groundchuck & dirtbag",
+    "eurPrice": 0.21
+  },
+  {
     "name": "Grounded",
     "nameKey": "grounded",
     "eurPrice": 0.07
+  },
+  {
+    "name": "Grounded for Life",
+    "nameKey": "grounded for life",
+    "eurPrice": 0.02
   },
   {
     "name": "Groundling Pouncer",
@@ -56943,6 +57328,11 @@
     "name": "Gryffwing Cavalry",
     "nameKey": "gryffwing cavalry",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Guac & Marshmallow Pizza",
+    "nameKey": "guac & marshmallow pizza",
+    "eurPrice": 0.07
   },
   {
     "name": "Guadosalam, Farplane Gateway",
@@ -57960,6 +58350,16 @@
     "eurPrice": 0.09
   },
   {
+    "name": "Hamato Guardian Stance",
+    "nameKey": "hamato guardian stance",
+    "eurPrice": 0.03
+  },
+  {
+    "name": "Hamato Ninpō",
+    "nameKey": "hamato ninpō",
+    "eurPrice": 0.33
+  },
+  {
     "name": "Hamlet Captain",
     "nameKey": "hamlet captain",
     "eurPrice": 0.02
@@ -58308,6 +58708,11 @@
     "name": "Hard-Hitting Question",
     "nameKey": "hard-hitting question",
     "eurPrice": 0.19
+  },
+  {
+    "name": "Hard-Won Jitte",
+    "nameKey": "hard-won jitte",
+    "eurPrice": 0.07
   },
   {
     "name": "Hardbristle Bandit",
@@ -59955,6 +60360,11 @@
     "eurPrice": 0.15
   },
   {
+    "name": "Henchbots",
+    "nameKey": "henchbots",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Henchfiend of Ukor",
     "nameKey": "henchfiend of ukor",
     "eurPrice": 0.02
@@ -60150,6 +60560,11 @@
     "eurPrice": 0.13
   },
   {
+    "name": "Here Comes a New Hero!",
+    "nameKey": "here comes a new hero!",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Heretic's Punishment",
     "nameKey": "heretic's punishment",
     "eurPrice": 0.26
@@ -60283,6 +60698,11 @@
     "name": "Hero's Resolve",
     "nameKey": "hero's resolve",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Heroes in a Half Shell",
+    "nameKey": "heroes in a half shell",
+    "eurPrice": 0.02
   },
   {
     "name": "Heroes of the Revel",
@@ -60520,6 +60940,11 @@
     "eurPrice": 0.68
   },
   {
+    "name": "Hidden Hideout",
+    "nameKey": "hidden hideout",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Hidden Horror",
     "nameKey": "hidden horror",
     "eurPrice": 0.02
@@ -60690,6 +61115,11 @@
     "eurPrice": 0.14
   },
   {
+    "name": "High Score",
+    "nameKey": "high score",
+    "eurPrice": 1.20
+  },
+  {
     "name": "High Seas",
     "nameKey": "high seas",
     "eurPrice": 0.24
@@ -60708,6 +61138,11 @@
     "name": "High Tide",
     "nameKey": "high tide",
     "eurPrice": 1.01
+  },
+  {
+    "name": "High-Flying Ace",
+    "nameKey": "high-flying ace",
+    "eurPrice": 0.02
   },
   {
     "name": "High-Rise Sawjack",
@@ -63085,6 +63520,11 @@
     "eurPrice": 0.29
   },
   {
+    "name": "Ice Cream Kitty",
+    "nameKey": "ice cream kitty",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Ice Flan",
     "nameKey": "ice flan",
     "eurPrice": 0.06
@@ -63513,6 +63953,11 @@
     "name": "Ill-Timed Explosion",
     "nameKey": "ill-timed explosion",
     "eurPrice": 0.27
+  },
+  {
+    "name": "Illegitimate Business",
+    "nameKey": "illegitimate business",
+    "eurPrice": 0.04
   },
   {
     "name": "Illicit Auction",
@@ -64133,6 +64578,11 @@
     "name": "Improvised Armor",
     "nameKey": "improvised armor",
     "eurPrice": 0.05
+  },
+  {
+    "name": "Improvised Arsenal",
+    "nameKey": "improvised arsenal",
+    "eurPrice": 0.38
   },
   {
     "name": "Improvised Club",
@@ -65280,6 +65730,11 @@
     "eurPrice": 0.11
   },
   {
+    "name": "Insectoid Exterminator",
+    "nameKey": "insectoid exterminator",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Inside Out",
     "nameKey": "inside out",
     "eurPrice": 0.32
@@ -66348,6 +66803,11 @@
     "name": "Irini Sengir",
     "nameKey": "irini sengir",
     "eurPrice": 0.23
+  },
+  {
+    "name": "Irma, Part-Time Mutant",
+    "nameKey": "irma, part-time mutant",
+    "eurPrice": 5.49
   },
   {
     "name": "Iroas, God of Victory",
@@ -67618,6 +68078,16 @@
     "name": "Jenara, Asura of War",
     "nameKey": "jenara, asura of war",
     "eurPrice": 0.33
+  },
+  {
+    "name": "Jennika, Bad Apple Big Sister",
+    "nameKey": "jennika, bad apple big sister",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Jennika's Technique",
+    "nameKey": "jennika's technique",
+    "eurPrice": 0.10
   },
   {
     "name": "Jenny Flint",
@@ -69198,6 +69668,16 @@
     "name": "Karador, Ghost Chieftain",
     "nameKey": "karador, ghost chieftain",
     "eurPrice": 0.26
+  },
+  {
+    "name": "Karai, Future of the Foot",
+    "nameKey": "karai, future of the foot",
+    "eurPrice": 0.07
+  },
+  {
+    "name": "Karai's Technique",
+    "nameKey": "karai's technique",
+    "eurPrice": 0.02
   },
   {
     "name": "Karakas",
@@ -71170,6 +71650,16 @@
     "eurPrice": 0.09
   },
   {
+    "name": "Kitsune, Dragon's Daughter",
+    "nameKey": "kitsune, dragon's daughter",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Kitsune's Technique",
+    "nameKey": "kitsune's technique",
+    "eurPrice": 0.25
+  },
+  {
     "name": "Kitt Kanto, Mayhem Diva",
     "nameKey": "kitt kanto, mayhem diva",
     "eurPrice": 0.26
@@ -72030,6 +72520,11 @@
     "eurPrice": 0.1
   },
   {
+    "name": "Koya, Death from Above",
+    "nameKey": "koya, death from above",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Kozilek, Butcher of Truth",
     "nameKey": "kozilek, butcher of truth",
     "eurPrice": 33.99
@@ -72118,6 +72613,26 @@
     "name": "Krakilin",
     "nameKey": "krakilin",
     "eurPrice": 0.27
+  },
+  {
+    "name": "Krang & Shredder",
+    "nameKey": "krang & shredder",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Krang, Master Mind",
+    "nameKey": "krang, master mind",
+    "eurPrice": 2.89
+  },
+  {
+    "name": "Krang, the All-Powerful",
+    "nameKey": "krang, the all-powerful",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Krang, Utrom Warlord",
+    "nameKey": "krang, utrom warlord",
+    "eurPrice": 13.58
   },
   {
     "name": "Kranioceros",
@@ -73780,6 +74295,11 @@
     "eurPrice": 0.27
   },
   {
+    "name": "Leader's Talent",
+    "nameKey": "leader's talent",
+    "eurPrice": 0.47
+  },
+  {
     "name": "Leadership Vacuum",
     "nameKey": "leadership vacuum",
     "eurPrice": 0.35
@@ -73888,6 +74408,16 @@
     "name": "Leatherback Baloth",
     "nameKey": "leatherback baloth",
     "eurPrice": 0.24
+  },
+  {
+    "name": "Leatherhead, Iron Gator",
+    "nameKey": "leatherhead, iron gator",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Leatherhead, Swamp Stalker",
+    "nameKey": "leatherhead, swamp stalker",
+    "eurPrice": 0.02
   },
   {
     "name": "Leave // Chance",
@@ -74135,9 +74665,49 @@
     "eurPrice": 0.05
   },
   {
+    "name": "Leo's Guidance",
+    "nameKey": "leo's guidance",
+    "eurPrice": 0.39
+  },
+  {
     "name": "Leonardo da Vinci",
     "nameKey": "leonardo da vinci",
     "eurPrice": 1.22
+  },
+  {
+    "name": "Leonardo, Big Brother",
+    "nameKey": "leonardo, big brother",
+    "eurPrice": 0.15
+  },
+  {
+    "name": "Leonardo, Cutting Edge",
+    "nameKey": "leonardo, cutting edge",
+    "eurPrice": 0.05
+  },
+  {
+    "name": "Leonardo, Leader in Blue",
+    "nameKey": "leonardo, leader in blue",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Leonardo, Sewer Samurai",
+    "nameKey": "leonardo, sewer samurai",
+    "eurPrice": 2.97
+  },
+  {
+    "name": "Leonardo, the Balance",
+    "nameKey": "leonardo, the balance",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Leonardo, Worldly Warrior",
+    "nameKey": "leonardo, worldly warrior",
+    "eurPrice": 2.46
+  },
+  {
+    "name": "Leonardo's Technique",
+    "nameKey": "leonardo's technique",
+    "eurPrice": 0.64
   },
   {
     "name": "Leonin Abunas",
@@ -74295,6 +74865,11 @@
     "eurPrice": 4.94
   },
   {
+    "name": "Lessons from Life",
+    "nameKey": "lessons from life",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Let the Galaxy Burn",
     "nameKey": "let the galaxy burn",
     "eurPrice": 0.49
@@ -74343,6 +74918,11 @@
     "name": "Letter of Acceptance",
     "nameKey": "letter of acceptance",
     "eurPrice": 0.05
+  },
+  {
+    "name": "Level Up",
+    "nameKey": "level up",
+    "eurPrice": 0.02
   },
   {
     "name": "Leveler",
@@ -75550,6 +76130,11 @@
     "eurPrice": 1.6
   },
   {
+    "name": "Lita, Little Orphan Amphibian",
+    "nameKey": "lita, little orphan amphibian",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Lita, Mechanical Engineer",
     "nameKey": "lita, mechanical engineer",
     "eurPrice": 2.14
@@ -76333,6 +76918,11 @@
     "name": "Lorcan, Warlock Collector",
     "nameKey": "lorcan, warlock collector",
     "eurPrice": 0.45
+  },
+  {
+    "name": "Lord Dregg, Insect Invader",
+    "nameKey": "lord dregg, insect invader",
+    "eurPrice": 0.08
   },
   {
     "name": "Lord Jyscal Guado",
@@ -77583,6 +78173,11 @@
     "name": "Mad Ratter",
     "nameKey": "mad ratter",
     "eurPrice": 0.13
+  },
+  {
+    "name": "Madame Null, Power Broker",
+    "nameKey": "madame null, power broker",
+    "eurPrice": 0.02
   },
   {
     "name": "Madame Vastra",
@@ -78888,6 +79483,16 @@
     "name": "Manglehorn",
     "nameKey": "manglehorn",
     "eurPrice": 0.59
+  },
+  {
+    "name": "Manhole Cover",
+    "nameKey": "manhole cover",
+    "eurPrice": 0.45
+  },
+  {
+    "name": "Manhole Missile",
+    "nameKey": "manhole missile",
+    "eurPrice": 0.04
   },
   {
     "name": "Maniacal Rage",
@@ -80550,6 +81155,11 @@
     "eurPrice": 0.08
   },
   {
+    "name": "Mechanized Ninja Cavalry",
+    "nameKey": "mechanized ninja cavalry",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Mechanized Production",
     "nameKey": "mechanized production",
     "eurPrice": 0.7
@@ -81495,6 +82105,11 @@
     "eurPrice": 0.06
   },
   {
+    "name": "Metalhead",
+    "nameKey": "metalhead",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Metallic Mastery",
     "nameKey": "metallic mastery",
     "eurPrice": 0.04
@@ -81698,6 +82313,41 @@
     "name": "Miasmic Mummy",
     "nameKey": "miasmic mummy",
     "eurPrice": 0.1
+  },
+  {
+    "name": "Michelangelo, Game Master",
+    "nameKey": "michelangelo, game master",
+    "eurPrice": 0.03
+  },
+  {
+    "name": "Michelangelo, Improviser",
+    "nameKey": "michelangelo, improviser",
+    "eurPrice": 2.32
+  },
+  {
+    "name": "Michelangelo, Mutant BFF",
+    "nameKey": "michelangelo, mutant bff",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Michelangelo, On the Scene",
+    "nameKey": "michelangelo, on the scene",
+    "eurPrice": 3.34
+  },
+  {
+    "name": "Michelangelo, the Heart",
+    "nameKey": "michelangelo, the heart",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Michelangelo, Weirdness to 11",
+    "nameKey": "michelangelo, weirdness to 11",
+    "eurPrice": 3.06
+  },
+  {
+    "name": "Michelangelo's Technique",
+    "nameKey": "michelangelo's technique",
+    "eurPrice": 0.02
   },
   {
     "name": "Michiko Konda, Truth Seeker",
@@ -81925,6 +82575,11 @@
     "eurPrice": 0.02
   },
   {
+    "name": "Mighty Mutanimals",
+    "nameKey": "mighty mutanimals",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Mighty Servant of Leuk-o",
     "nameKey": "mighty servant of leuk-o",
     "eurPrice": 0.44
@@ -81973,6 +82628,21 @@
     "name": "Mikaeus, the Unhallowed",
     "nameKey": "mikaeus, the unhallowed",
     "eurPrice": 10.77
+  },
+  {
+    "name": "Mikey & Don, Party Planners",
+    "nameKey": "mikey & don, party planners",
+    "eurPrice": 0.20
+  },
+  {
+    "name": "Mikey & Leo, Chaos & Order",
+    "nameKey": "mikey & leo, chaos & order",
+    "eurPrice": 2.13
+  },
+  {
+    "name": "Mikey & Mona, Mutant Sitters",
+    "nameKey": "mikey & mona, mutant sitters",
+    "eurPrice": 0.40
   },
   {
     "name": "Mikokoro, Center of the Sea",
@@ -82268,6 +82938,11 @@
     "name": "Mind Swords",
     "nameKey": "mind swords",
     "eurPrice": 0.15
+  },
+  {
+    "name": "Mind Transfer Protocol",
+    "nameKey": "mind transfer protocol",
+    "eurPrice": 0.04
   },
   {
     "name": "Mind Twist",
@@ -84000,6 +84675,11 @@
     "eurPrice": 0.05
   },
   {
+    "name": "Mole Module",
+    "nameKey": "mole module",
+    "eurPrice": 0.16
+  },
+  {
     "name": "Mole Worms",
     "nameKey": "mole worms",
     "eurPrice": 0.2
@@ -84255,6 +84935,16 @@
     "eurPrice": 1.3
   },
   {
+    "name": "Mona Lisa, Ever Adaptable",
+    "nameKey": "mona lisa, ever adaptable",
+    "eurPrice": 6.74
+  },
+  {
+    "name": "Mona Lisa, Science Geek",
+    "nameKey": "mona lisa, science geek",
+    "eurPrice": 0.09
+  },
+  {
     "name": "Monastery Flock",
     "nameKey": "monastery flock",
     "eurPrice": 0.03
@@ -84288,6 +84978,11 @@
     "name": "Monastery Swiftspear",
     "nameKey": "monastery swiftspear",
     "eurPrice": 0.22
+  },
+  {
+    "name": "Mondo Gecko",
+    "nameKey": "mondo gecko",
+    "eurPrice": 1.52
   },
   {
     "name": "Mondrak, Glory Dominus",
@@ -84393,6 +85088,11 @@
     "name": "Monster Manual // Zoological Study",
     "nameKey": "monster manual // zoological study",
     "eurPrice": 4.96
+  },
+  {
+    "name": "Monster Mashup",
+    "nameKey": "monster mashup",
+    "eurPrice": 0.22
   },
   {
     "name": "Monstrify",
@@ -85250,6 +85950,21 @@
     "eurPrice": 0.09
   },
   {
+    "name": "Mouser Attack!",
+    "nameKey": "mouser attack!",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Mouser Foundry",
+    "nameKey": "mouser foundry",
+    "eurPrice": 0.08
+  },
+  {
+    "name": "Mouser Mark III",
+    "nameKey": "mouser mark iii",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Mouth // Feed",
     "nameKey": "mouth // feed",
     "eurPrice": 0.15
@@ -85750,6 +86465,11 @@
     "eurPrice": 0.05
   },
   {
+    "name": "Mutagen Man, Living Ooze",
+    "nameKey": "mutagen man, living ooze",
+    "eurPrice": 2.07
+  },
+  {
     "name": "Mutagenic Growth",
     "nameKey": "mutagenic growth",
     "eurPrice": 2.84
@@ -85760,9 +86480,24 @@
     "eurPrice": 0.4
   },
   {
+    "name": "Mutant Chain Reaction",
+    "nameKey": "mutant chain reaction",
+    "eurPrice": 0.04
+  },
+  {
     "name": "Mutant Surveyor",
     "nameKey": "mutant surveyor",
     "eurPrice": 0.07
+  },
+  {
+    "name": "Mutant Town",
+    "nameKey": "mutant town",
+    "eurPrice": 0.04
+  },
+  {
+    "name": "Mutant Town Musicians",
+    "nameKey": "mutant town musicians",
+    "eurPrice": 0.03
   },
   {
     "name": "Mutant's Prey",
@@ -87950,6 +88685,11 @@
     "eurPrice": 2.16
   },
   {
+    "name": "New Generation's Technique",
+    "nameKey": "new generation's technique",
+    "eurPrice": 0.12
+  },
+  {
     "name": "New Horizons",
     "nameKey": "new horizons",
     "eurPrice": 0.09
@@ -88710,6 +89450,16 @@
     "eurPrice": 0.08
   },
   {
+    "name": "Ninja Pizza",
+    "nameKey": "ninja pizza",
+    "eurPrice": 2.43
+  },
+  {
+    "name": "Ninja Teen",
+    "nameKey": "ninja teen",
+    "eurPrice": 0.90
+  },
+  {
     "name": "Ninja's Blades",
     "nameKey": "ninja's blades",
     "eurPrice": 0.22
@@ -89050,6 +89800,11 @@
     "eurPrice": 0.21
   },
   {
+    "name": "Nobody",
+    "nameKey": "nobody",
+    "eurPrice": 0.03
+  },
+  {
     "name": "Noctis, Heir Apparent",
     "nameKey": "noctis, heir apparent",
     "eurPrice": 5.5
@@ -89245,6 +90000,16 @@
     "eurPrice": 19.67
   },
   {
+    "name": "North Wind Avatar",
+    "nameKey": "north wind avatar",
+    "eurPrice": 3.21
+  },
+  {
+    "name": "Northampton Farm",
+    "nameKey": "northampton farm",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Northern Air Temple",
     "nameKey": "northern air temple",
     "eurPrice": 0.2
@@ -89373,6 +90138,11 @@
     "name": "Novablast Wurm",
     "nameKey": "novablast wurm",
     "eurPrice": 1.45
+  },
+  {
+    "name": "Novel Nunchaku",
+    "nameKey": "novel nunchaku",
+    "eurPrice": 0.02
   },
   {
     "name": "Novice Dissector",
@@ -89528,6 +90298,11 @@
     "name": "Null Elemental Blast",
     "nameKey": "null elemental blast",
     "eurPrice": 0.35
+  },
+  {
+    "name": "Null Group Biological Assets",
+    "nameKey": "null group biological assets",
+    "eurPrice": 0.03
   },
   {
     "name": "Null Profusion",
@@ -90815,6 +91590,11 @@
     "eurPrice": 41.82
   },
   {
+    "name": "Old Hob, Alleycat Blues",
+    "nameKey": "old hob, alleycat blues",
+    "eurPrice": 0.05
+  },
+  {
     "name": "Old Man of the Sea",
     "nameKey": "old man of the sea",
     "eurPrice": 183.06
@@ -91073,6 +91853,11 @@
     "name": "Omni-Changeling",
     "nameKey": "omni-changeling",
     "eurPrice": 0.05
+  },
+  {
+    "name": "Omni-Cheese Pizza",
+    "nameKey": "omni-cheese pizza",
+    "eurPrice": 0.07
   },
   {
     "name": "Omnibian",
@@ -91353,6 +92138,11 @@
     "name": "Ooze Patrol",
     "nameKey": "ooze patrol",
     "eurPrice": 0.04
+  },
+  {
+    "name": "Ooze Spill",
+    "nameKey": "ooze spill",
+    "eurPrice": 0.08
   },
   {
     "name": "Opal Acrolith",
@@ -92158,6 +92948,11 @@
     "name": "Orochi Sustainer",
     "nameKey": "orochi sustainer",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Oroku Saki, Shredder Rising",
+    "nameKey": "oroku saki, shredder rising",
+    "eurPrice": 0.08
   },
   {
     "name": "Oros, the Avenger",
@@ -93065,6 +93860,11 @@
     "eurPrice": 0.02
   },
   {
+    "name": "Pain 101",
+    "nameKey": "pain 101",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Pain Distributor",
     "nameKey": "pain distributor",
     "eurPrice": 1.81
@@ -93555,6 +94355,11 @@
     "eurPrice": 0.02
   },
   {
+    "name": "Paramecia Coloniex",
+    "nameKey": "paramecia coloniex",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Paranoid Delusions",
     "nameKey": "paranoid delusions",
     "eurPrice": 0.16
@@ -93753,6 +94558,11 @@
     "name": "Parting Thoughts",
     "nameKey": "parting thoughts",
     "eurPrice": 0.23
+  },
+  {
+    "name": "Party Dude",
+    "nameKey": "party dude",
+    "eurPrice": 1.15
   },
   {
     "name": "Party Thrasher",
@@ -96180,6 +96990,11 @@
     "eurPrice": 37.28
   },
   {
+    "name": "Pizza Face, Gastromancer",
+    "nameKey": "pizza face, gastromancer",
+    "eurPrice": 0.09
+  },
+  {
     "name": "Placid Rottentail",
     "nameKey": "placid rottentail",
     "eurPrice": 0.04
@@ -97555,6 +98370,16 @@
     "eurPrice": 0.8
   },
   {
+    "name": "Prehistoric Pet",
+    "nameKey": "prehistoric pet",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Prehistoric Turtlesaurus",
+    "nameKey": "prehistoric turtlesaurus",
+    "eurPrice": 0.24
+  },
+  {
     "name": "Premature Burial",
     "nameKey": "premature burial",
     "eurPrice": 0.02
@@ -98058,6 +98883,11 @@
     "name": "Primordial Ooze",
     "nameKey": "primordial ooze",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Primordial Pachyderm",
+    "nameKey": "primordial pachyderm",
+    "eurPrice": 0.02
   },
   {
     "name": "Primordial Sage",
@@ -99295,6 +100125,11 @@
     "eurPrice": 0.19
   },
   {
+    "name": "Punk Frogs",
+    "nameKey": "punk frogs",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Puppet Conjurer",
     "nameKey": "puppet conjurer",
     "eurPrice": 0.06
@@ -99430,6 +100265,11 @@
     "eurPrice": 0.14
   },
   {
+    "name": "Purple Dragon Punks",
+    "nameKey": "purple dragon punks",
+    "eurPrice": 0.04
+  },
+  {
     "name": "Purple Pentapus",
     "nameKey": "purple pentapus",
     "eurPrice": 0.14
@@ -99523,6 +100363,11 @@
     "name": "Putrid Leech",
     "nameKey": "putrid leech",
     "eurPrice": 0.11
+  },
+  {
+    "name": "Putrid Pals",
+    "nameKey": "putrid pals",
+    "eurPrice": 0.02
   },
   {
     "name": "Putrid Raptor",
@@ -100325,6 +101170,11 @@
     "eurPrice": 0.1
   },
   {
+    "name": "Quintessential Katana",
+    "nameKey": "quintessential katana",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Quintorius Kand",
     "nameKey": "quintorius kand",
     "eurPrice": 1.09
@@ -100708,6 +101558,11 @@
     "name": "Rag Man",
     "nameKey": "rag man",
     "eurPrice": 0.24
+  },
+  {
+    "name": "Ragamuffin Raptor",
+    "nameKey": "ragamuffin raptor",
+    "eurPrice": 0.04
   },
   {
     "name": "Ragamuffyn",
@@ -101825,9 +102680,59 @@
     "eurPrice": 0.2
   },
   {
+    "name": "Raph & Leo, Sibling Rivals",
+    "nameKey": "raph & leo, sibling rivals",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Raph & Mikey, Troublemakers",
+    "nameKey": "raph & mikey, troublemakers",
+    "eurPrice": 0.82
+  },
+  {
+    "name": "Raph's Bravado",
+    "nameKey": "raph's bravado",
+    "eurPrice": 0.23
+  },
+  {
     "name": "Raphael, Fiendish Savior",
     "nameKey": "raphael, fiendish savior",
     "eurPrice": 0.28
+  },
+  {
+    "name": "Raphael, Most Attitude",
+    "nameKey": "raphael, most attitude",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Raphael, Ninja Destroyer",
+    "nameKey": "raphael, ninja destroyer",
+    "eurPrice": 1.10
+  },
+  {
+    "name": "Raphael, Tag Team Tough",
+    "nameKey": "raphael, tag team tough",
+    "eurPrice": 5.24
+  },
+  {
+    "name": "Raphael, the Muscle",
+    "nameKey": "raphael, the muscle",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Raphael, the Nightwatcher",
+    "nameKey": "raphael, the nightwatcher",
+    "eurPrice": 0.70
+  },
+  {
+    "name": "Raphael, Tough Turtle",
+    "nameKey": "raphael, tough turtle",
+    "eurPrice": 0.09
+  },
+  {
+    "name": "Raphael's Technique",
+    "nameKey": "raphael's technique",
+    "eurPrice": 0.02
   },
   {
     "name": "Rapid Augmenter",
@@ -101918,6 +102823,16 @@
     "name": "Rat Colony",
     "nameKey": "rat colony",
     "eurPrice": 1.77
+  },
+  {
+    "name": "Rat King, Pale Piper",
+    "nameKey": "rat king, pale piper",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Rat King, Verminister",
+    "nameKey": "rat king, verminister",
+    "eurPrice": 0.02
   },
   {
     "name": "Rat Out",
@@ -102230,6 +103145,11 @@
     "eurPrice": 0.09
   },
   {
+    "name": "Ravenous Robots",
+    "nameKey": "ravenous robots",
+    "eurPrice": 2.38
+  },
+  {
     "name": "Ravenous Rotbelly",
     "nameKey": "ravenous rotbelly",
     "eurPrice": 0.65
@@ -102298,6 +103218,16 @@
     "name": "Ravos, Soultender",
     "nameKey": "ravos, soultender",
     "eurPrice": 5.38
+  },
+  {
+    "name": "Ray Fillet, Man Ray",
+    "nameKey": "ray fillet, man ray",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Ray Fillet, Wave Warrior",
+    "nameKey": "ray fillet, wave warrior",
+    "eurPrice": 0.07
   },
   {
     "name": "Ray of Command",
@@ -104200,6 +105130,11 @@
     "eurPrice": 0.06
   },
   {
+    "name": "Renet, Temporal Apprentice",
+    "nameKey": "renet, temporal apprentice",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Renewal",
     "nameKey": "renewal",
     "eurPrice": 0.13
@@ -104980,6 +105915,11 @@
     "eurPrice": 0.11
   },
   {
+    "name": "Retro-Mutation",
+    "nameKey": "retro-mutation",
+    "eurPrice": 0.06
+  },
+  {
     "name": "Retrofitted Transmogrant",
     "nameKey": "retrofitted transmogrant",
     "eurPrice": 0.14
@@ -105053,6 +105993,11 @@
     "name": "Return to the Ranks",
     "nameKey": "return to the ranks",
     "eurPrice": 1.27
+  },
+  {
+    "name": "Return to the Sewers",
+    "nameKey": "return to the sewers",
+    "eurPrice": 0.05
   },
   {
     "name": "Return Triumphant",
@@ -106810,6 +107755,11 @@
     "eurPrice": 0.14
   },
   {
+    "name": "Roadkill Rodney",
+    "nameKey": "roadkill rodney",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Roadside Assistance",
     "nameKey": "roadside assistance",
     "eurPrice": 0.05
@@ -107020,6 +107970,11 @@
     "eurPrice": 0.15
   },
   {
+    "name": "Rock Soldiers",
+    "nameKey": "rock soldiers",
+    "eurPrice": 0.03
+  },
+  {
     "name": "Rockalanche",
     "nameKey": "rockalanche",
     "eurPrice": 0.14
@@ -107072,6 +108027,16 @@
   {
     "name": "Rockslide Sorcerer",
     "nameKey": "rockslide sorcerer",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Rocksteady, Crash Courser",
+    "nameKey": "rocksteady, crash courser",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Rocksteady, Mutant Marauder",
+    "nameKey": "rocksteady, mutant marauder",
     "eurPrice": 0.02
   },
   {
@@ -109470,6 +110435,11 @@
     "eurPrice": 0.02
   },
   {
+    "name": "Sally Pride, Lioness Leader",
+    "nameKey": "sally pride, lioness leader",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Sally Sparrow",
     "nameKey": "sally sparrow",
     "eurPrice": 0.21
@@ -110773,6 +111743,16 @@
     "name": "Savannah Sage",
     "nameKey": "savannah sage",
     "eurPrice": 0.14
+  },
+  {
+    "name": "Savanti Romero, Time's Exile",
+    "nameKey": "savanti romero, time's exile",
+    "eurPrice": 0.13
+  },
+  {
+    "name": "Saved by the Shell",
+    "nameKey": "saved by the shell",
+    "eurPrice": 0.13
   },
   {
     "name": "Saving Grace",
@@ -114405,6 +115385,11 @@
     "eurPrice": 0.03
   },
   {
+    "name": "Sewer-veillance Cam",
+    "nameKey": "sewer-veillance cam",
+    "eurPrice": 0.20
+  },
+  {
     "name": "Sewerdreg",
     "nameKey": "sewerdreg",
     "eurPrice": 0.03
@@ -115050,6 +116035,11 @@
     "eurPrice": 2.65
   },
   {
+    "name": "Shark Shredder, Killer Clone",
+    "nameKey": "shark shredder, killer clone",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Shark Typhoon",
     "nameKey": "shark typhoon",
     "eurPrice": 1.04
@@ -115288,6 +116278,11 @@
     "name": "Shelldock Isle",
     "nameKey": "shelldock isle",
     "eurPrice": 1.82
+  },
+  {
+    "name": "Shellshock",
+    "nameKey": "shellshock",
+    "eurPrice": 0.02
   },
   {
     "name": "Shelob, Child of Ungoliant",
@@ -116183,6 +117178,31 @@
     "name": "Shredded Sails",
     "nameKey": "shredded sails",
     "eurPrice": 0.03
+  },
+  {
+    "name": "Shredder, Shadow Master",
+    "nameKey": "shredder, shadow master",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Shredder, Unrelenting",
+    "nameKey": "shredder, unrelenting",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Shredder's Armor",
+    "nameKey": "shredder's armor",
+    "eurPrice": 0.06
+  },
+  {
+    "name": "Shredder's Revenge",
+    "nameKey": "shredder's revenge",
+    "eurPrice": 0.06
+  },
+  {
+    "name": "Shredder's Technique",
+    "nameKey": "shredder's technique",
+    "eurPrice": 0.21
   },
   {
     "name": "Shredding Winds",
@@ -117935,6 +118955,11 @@
     "eurPrice": 0.04
   },
   {
+    "name": "Skateboard",
+    "nameKey": "skateboard",
+    "eurPrice": 0.37
+  },
+  {
     "name": "Skatewing Spy",
     "nameKey": "skatewing spy",
     "eurPrice": 0.17
@@ -119090,6 +120115,11 @@
     "eurPrice": 0.68
   },
   {
+    "name": "Slash, Reptile Rampager",
+    "nameKey": "slash, reptile rampager",
+    "eurPrice": 1.25
+  },
+  {
     "name": "Slashing Tiger",
     "nameKey": "slashing tiger",
     "eurPrice": 24.36
@@ -119508,6 +120538,11 @@
     "name": "Slitherhead",
     "nameKey": "slitherhead",
     "eurPrice": 0.07
+  },
+  {
+    "name": "Slithering Cryptid",
+    "nameKey": "slithering cryptid",
+    "eurPrice": 0.02
   },
   {
     "name": "Slithering Shade",
@@ -121580,6 +122615,11 @@
     "eurPrice": 0.28
   },
   {
+    "name": "South Wind Avatar",
+    "nameKey": "south wind avatar",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Southern Air Temple",
     "nameKey": "southern air temple",
     "eurPrice": 0.19
@@ -121943,6 +122983,11 @@
     "name": "Spearpoint Oread",
     "nameKey": "spearpoint oread",
     "eurPrice": 0.08
+  },
+  {
+    "name": "Special Move",
+    "nameKey": "special move",
+    "eurPrice": 0.11
   },
   {
     "name": "Species Gorger",
@@ -122573,6 +123618,11 @@
     "name": "Sphinx's Tutelage",
     "nameKey": "sphinx's tutelage",
     "eurPrice": 0.95
+  },
+  {
+    "name": "Spicy Oatmeal Pizza",
+    "nameKey": "spicy oatmeal pizza",
+    "eurPrice": 0.03
   },
   {
     "name": "Spider Climb",
@@ -123500,9 +124550,39 @@
     "eurPrice": 0.18
   },
   {
+    "name": "Splinter & Leo, Father & Son",
+    "nameKey": "splinter & leo, father & son",
+    "eurPrice": 0.22
+  },
+  {
     "name": "Splinter Twin",
     "nameKey": "splinter twin",
     "eurPrice": 6.17
+  },
+  {
+    "name": "Splinter, Aging Champion",
+    "nameKey": "splinter, aging champion",
+    "eurPrice": 1.87
+  },
+  {
+    "name": "Splinter, Hamato Yoshi",
+    "nameKey": "splinter, hamato yoshi",
+    "eurPrice": 0.14
+  },
+  {
+    "name": "Splinter, Radical Rat",
+    "nameKey": "splinter, radical rat",
+    "eurPrice": 1.58
+  },
+  {
+    "name": "Splinter, the Mentor",
+    "nameKey": "splinter, the mentor",
+    "eurPrice": 0.12
+  },
+  {
+    "name": "Splinter's Technique",
+    "nameKey": "splinter's technique",
+    "eurPrice": 2.45
   },
   {
     "name": "Splinterfright",
@@ -124133,6 +125213,11 @@
     "name": "Squirrel Wrangler",
     "nameKey": "squirrel wrangler",
     "eurPrice": 0.72
+  },
+  {
+    "name": "Squirrelanoids",
+    "nameKey": "squirrelanoids",
+    "eurPrice": 0.06
   },
   {
     "name": "Squishy Sphinx Ninja",
@@ -125535,6 +126620,11 @@
     "eurPrice": 0.24
   },
   {
+    "name": "Stockman, Mad Fly-entist",
+    "nameKey": "stockman, mad fly-entist",
+    "eurPrice": 0.03
+  },
+  {
     "name": "Stockpiling Celebrant",
     "nameKey": "stockpiling celebrant",
     "eurPrice": 0.1
@@ -125623,6 +126713,11 @@
     "name": "Stomp and Howl",
     "nameKey": "stomp and howl",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Stomped by the Foot",
+    "nameKey": "stomped by the foot",
+    "eurPrice": 0.02
   },
   {
     "name": "Stomper Cub",
@@ -126002,6 +127097,11 @@
   {
     "name": "Storm of Souls",
     "nameKey": "storm of souls",
+    "eurPrice": 0.21
+  },
+  {
+    "name": "Storm of Steel",
+    "nameKey": "storm of steel",
     "eurPrice": 0.21
   },
   {
@@ -126888,6 +127988,11 @@
     "name": "Study Hall",
     "nameKey": "study hall",
     "eurPrice": 0.17
+  },
+  {
+    "name": "Study the Classics",
+    "nameKey": "study the classics",
+    "eurPrice": 0.30
   },
   {
     "name": "Stuffed Bear",
@@ -128095,9 +129200,19 @@
     "eurPrice": 0.23
   },
   {
+    "name": "Super Combo",
+    "nameKey": "super combo",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Super Mutant Scavenger",
     "nameKey": "super mutant scavenger",
     "eurPrice": 0.13
+  },
+  {
+    "name": "Super Shredder",
+    "nameKey": "super shredder",
+    "eurPrice": 15.37
   },
   {
     "name": "Super State",
@@ -128833,6 +129948,11 @@
     "name": "Swerve",
     "nameKey": "swerve",
     "eurPrice": 0.31
+  },
+  {
+    "name": "Swift Demise",
+    "nameKey": "swift demise",
+    "eurPrice": 0.02
   },
   {
     "name": "Swift Justice",
@@ -129753,6 +130873,11 @@
     "name": "Tainted Strike",
     "nameKey": "tainted strike",
     "eurPrice": 1.89
+  },
+  {
+    "name": "Tainted Treats",
+    "nameKey": "tainted treats",
+    "eurPrice": 0.12
   },
   {
     "name": "Tainted Well",
@@ -130785,6 +131910,11 @@
     "eurPrice": 0.09
   },
   {
+    "name": "TCRI Building",
+    "nameKey": "tcri building",
+    "eurPrice": 0.05
+  },
+  {
     "name": "Teach by Example",
     "nameKey": "teach by example",
     "eurPrice": 0.09
@@ -130833,6 +131963,11 @@
     "name": "Tears of Valakut",
     "nameKey": "tears of valakut",
     "eurPrice": 0.15
+  },
+  {
+    "name": "Technodrome",
+    "nameKey": "technodrome",
+    "eurPrice": 3.96
   },
   {
     "name": "Technomancer",
@@ -131310,6 +132445,11 @@
     "eurPrice": 0.47
   },
   {
+    "name": "Tempestra, Dame of Games",
+    "nameKey": "tempestra, dame of games",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Templar Knight",
     "nameKey": "templar knight",
     "eurPrice": 0.39
@@ -131658,6 +132798,11 @@
     "name": "Tender Wildguide",
     "nameKey": "tender wildguide",
     "eurPrice": 0.39
+  },
+  {
+    "name": "Tenderize",
+    "nameKey": "tenderize",
+    "eurPrice": 0.04
   },
   {
     "name": "Tendershoot Dryad",
@@ -132710,6 +133855,11 @@
     "eurPrice": 0.17
   },
   {
+    "name": "The Cloning of Shredder",
+    "nameKey": "the cloning of shredder",
+    "eurPrice": 2.91
+  },
+  {
     "name": "The Council of Four",
     "nameKey": "the council of four",
     "eurPrice": 0.54
@@ -133175,6 +134325,16 @@
     "eurPrice": 0.28
   },
   {
+    "name": "The Last Ronin",
+    "nameKey": "the last ronin",
+    "eurPrice": 1.44
+  },
+  {
+    "name": "The Last Ronin's Technique",
+    "nameKey": "the last ronin's technique",
+    "eurPrice": 0.07
+  },
+  {
     "name": "The Legend of Kuruk // Avatar Kuruk",
     "nameKey": "the legend of kuruk // avatar kuruk",
     "eurPrice": 10.13
@@ -133365,6 +134525,11 @@
     "eurPrice": 0.02
   },
   {
+    "name": "The Neutrinos",
+    "nameKey": "the neutrinos",
+    "eurPrice": 0.08
+  },
+  {
     "name": "The Night of the Doctor",
     "nameKey": "the night of the doctor",
     "eurPrice": 0.33
@@ -133388,6 +134553,11 @@
     "name": "The One Ring",
     "nameKey": "the one ring",
     "eurPrice": 72.15
+  },
+  {
+    "name": "The Ooze",
+    "nameKey": "the ooze",
+    "eurPrice": 7.32
   },
   {
     "name": "The Ozolith",
@@ -135530,6 +136700,11 @@
     "eurPrice": 0.22
   },
   {
+    "name": "Ticked Off",
+    "nameKey": "ticked off",
+    "eurPrice": 0.31
+  },
+  {
     "name": "Ticket Booth // Tunnel of Hate",
     "nameKey": "ticket booth // tunnel of hate",
     "eurPrice": 0.19
@@ -136413,6 +137588,16 @@
     "name": "Toils of Night and Day",
     "nameKey": "toils of night and day",
     "eurPrice": 0.12
+  },
+  {
+    "name": "Tokka & Rahzar, Terrible Twos",
+    "nameKey": "tokka & rahzar, terrible twos",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Tokka & Rahzar, Unsupervised",
+    "nameKey": "tokka & rahzar, unsupervised",
+    "eurPrice": 0.02
   },
   {
     "name": "Tolaria",
@@ -137675,6 +138860,11 @@
     "eurPrice": 0.19
   },
   {
+    "name": "Transdimensional Bovine",
+    "nameKey": "transdimensional bovine",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Transforming Flourish",
     "nameKey": "transforming flourish",
     "eurPrice": 0.24
@@ -138410,6 +139600,16 @@
     "eurPrice": 0.03
   },
   {
+    "name": "Triceraton Commander",
+    "nameKey": "triceraton commander",
+    "eurPrice": 0.76
+  },
+  {
+    "name": "Triceraton Regenta",
+    "nameKey": "triceraton regenta",
+    "eurPrice": 0.25
+  },
+  {
     "name": "Trick Shot",
     "nameKey": "trick shot",
     "eurPrice": 0.03
@@ -139065,6 +140265,11 @@
     "eurPrice": null
   },
   {
+    "name": "Tunnel Rats",
+    "nameKey": "tunnel rats",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Tunnel Surveyor",
     "nameKey": "tunnel surveyor",
     "eurPrice": 0.02
@@ -139180,6 +140385,11 @@
     "eurPrice": 0.17
   },
   {
+    "name": "Turncoat Kunoichi",
+    "nameKey": "turncoat kunoichi",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Turntimber Ascetic",
     "nameKey": "turntimber ascetic",
     "eurPrice": 0.02
@@ -139215,6 +140425,31 @@
     "eurPrice": 0.03
   },
   {
+    "name": "Turtle Blimp",
+    "nameKey": "turtle blimp",
+    "eurPrice": 0.06
+  },
+  {
+    "name": "Turtle Lair",
+    "nameKey": "turtle lair",
+    "eurPrice": 0.02
+  },
+  {
+    "name": "Turtle Power!",
+    "nameKey": "turtle power!",
+    "eurPrice": 0.10
+  },
+  {
+    "name": "Turtle Tracks",
+    "nameKey": "turtle tracks",
+    "eurPrice": 0.29
+  },
+  {
+    "name": "Turtle Van",
+    "nameKey": "turtle van",
+    "eurPrice": 0.08
+  },
+  {
     "name": "Turtle-Duck",
     "nameKey": "turtle-duck",
     "eurPrice": 0.09
@@ -139223,6 +140458,16 @@
     "name": "Turtle-Seals",
     "nameKey": "turtle-seals",
     "eurPrice": 0.09
+  },
+  {
+    "name": "Turtles Forever",
+    "nameKey": "turtles forever",
+    "eurPrice": 0.32
+  },
+  {
+    "name": "Turtles in Time",
+    "nameKey": "turtles in time",
+    "eurPrice": 0.86
   },
   {
     "name": "Turtleshell Changeling",
@@ -140625,6 +141870,11 @@
     "eurPrice": 0.08
   },
   {
+    "name": "Uneasy Alliance",
+    "nameKey": "uneasy alliance",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Unending Whisper",
     "nameKey": "unending whisper",
     "eurPrice": 0.1
@@ -141828,6 +143078,16 @@
     "name": "Utopia Vow",
     "nameKey": "utopia vow",
     "eurPrice": 0.06
+  },
+  {
+    "name": "Utrom Monitor",
+    "nameKey": "utrom monitor",
+    "eurPrice": 8.18
+  },
+  {
+    "name": "Utrom Scientists",
+    "nameKey": "utrom scientists",
+    "eurPrice": 0.02
   },
   {
     "name": "Utter End",
@@ -143273,6 +144533,11 @@
     "name": "Venture Forth",
     "nameKey": "venture forth",
     "eurPrice": 0.26
+  },
+  {
+    "name": "Venus, Torn Between Worlds",
+    "nameKey": "venus, torn between worlds",
+    "eurPrice": 0.12
   },
   {
     "name": "Verazol, the Split Current",
@@ -147800,6 +149065,11 @@
     "eurPrice": 0.04
   },
   {
+    "name": "Weather Maker",
+    "nameKey": "weather maker",
+    "eurPrice": 0.02
+  },
+  {
     "name": "Weather the Storm",
     "nameKey": "weather the storm",
     "eurPrice": 1.4
@@ -148228,6 +149498,11 @@
     "name": "Wernog, Rider's Chaplain",
     "nameKey": "wernog, rider's chaplain",
     "eurPrice": 0.42
+  },
+  {
+    "name": "West Wind Avatar",
+    "nameKey": "west wind avatar",
+    "eurPrice": 0.06
   },
   {
     "name": "Western Paladin",
@@ -149660,6 +150935,11 @@
     "eurPrice": 0.35
   },
   {
+    "name": "Wingnut, Bat on the Belfry",
+    "nameKey": "wingnut, bat on the belfry",
+    "eurPrice": 0.04
+  },
+  {
     "name": "Wingrattle Scarecrow",
     "nameKey": "wingrattle scarecrow",
     "eurPrice": 0.11
@@ -150493,6 +151773,11 @@
     "name": "Wooded Ridgeline",
     "nameKey": "wooded ridgeline",
     "eurPrice": 0.21
+  },
+  {
+    "name": "Wooden Cane",
+    "nameKey": "wooden cane",
+    "eurPrice": 0.30
   },
   {
     "name": "Wooden Sphere",
@@ -152690,6 +153975,11 @@
     "eurPrice": 0.03
   },
   {
+    "name": "Zog, Triceraton Castaway",
+    "nameKey": "zog, triceraton castaway",
+    "eurPrice": 0.03
+  },
+  {
     "name": "Zombie Apocalypse",
     "nameKey": "zombie apocalypse",
     "eurPrice": 0.73
@@ -152778,6 +154068,11 @@
     "name": "Zombify",
     "nameKey": "zombify",
     "eurPrice": 0.12
+  },
+  {
+    "name": "Zoo Escapees",
+    "nameKey": "zoo escapees",
+    "eurPrice": 0.06
   },
   {
     "name": "Zookeeper Mechan",
